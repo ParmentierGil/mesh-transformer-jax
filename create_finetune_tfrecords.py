@@ -76,21 +76,12 @@ def parse_args():
     return args
 
 
-def get_files(input_path: Path) -> List[str]:
+def get_files(input_path):
     supported_file_types = ["jsonl.zst", ".txt", ".xz", ".tar.gz"]
-    if input_path.is_dir():
-        # get all files with supported file types
-        files = [list(Path(input_path).glob(f"*{ft}")) for ft in supported_file_types]
-        # flatten list
-        files = [f for sublist in files for f in sublist]
-        assert files, f"No files with supported types found in directory: {input_path}"
-    elif input_path.is_file():
-        assert any(
-            str(input_path).endswith(f_type) for f_type in supported_file_types
-        ), f"Input file type must be one of: {supported_file_types}"
+    if input_path.is_file():
         files = [input_path]
     else:
-        raise FileNotFoundError(f"No such file or directory: {input_path=}")
+        raise FileNotFoundError("No such file or directory")
 
     return [str(f) for f in files]
 
@@ -164,7 +155,7 @@ def enforce_min_unique(seqs, min_unique_tokens, enc, verbose=False):
             yield seq
         elif verbose:
             text = enc.decode(seq)
-            print(f"excluding with {len(set(seq))} unique tokens:\n\n{repr(text)}\n\n")
+            print("excluding with {len(set(seq))} unique tokens:\n\n{repr(text)}\n\n")
 
 
 def eot_splitting_generator(string_iterable, encoder):
@@ -288,11 +279,11 @@ def create_tfrecords(files, args):
         all_sequences_across_epochs.extend(full_seqs)
 
     # final
-    print(f"dropped {len(trailing_data)} tokens of trailing data")
+    print("dropped {} tokens of trailing data".format(len(trailing_data)))
 
     total_sequence_len = len(all_sequences_across_epochs)
 
-    fp = os.path.join(args.output_dir, f"{args.name}_{total_sequence_len}.tfrecords")
+    fp = os.path.join(args.output_dir, "{0}_{1}.tfrecords".format(args.name, total_sequence_len))
     write_tfrecord(all_sequences_across_epochs, fp)
 
 
@@ -302,6 +293,6 @@ if __name__ == "__main__":
     if args.output_dir:
         os.makedirs(args.output_dir, exist_ok=True)
     files = get_files(args.input_path)
-    print(f"Creating TFRecords from files: {files}")
+    print("Creating TFRecords from files")
 
     results = create_tfrecords(files, args)

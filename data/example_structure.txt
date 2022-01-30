@@ -1,0 +1,1923 @@
+
+Conversation 0
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(0.1) player: player message (end of message)
+(0.2) NPC: NPC message (end of message)
+(0.3) player: player message (end of message)
+(0.4) NPC: NPC message (end of message)
+(0.5) player: player message (end of message)
+(0.6) NPC: NPC message (end of message)
+(0.7) player: player message (end of message)
+(0.8) NPC: NPC message (end of message)
+(0.9) player: player message (end of message)
+(0.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 1
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(1.1) player: player message (end of message)
+(1.2) NPC: NPC message (end of message)
+(1.3) player: player message (end of message)
+(1.4) NPC: NPC message (end of message)
+(1.5) player: player message (end of message)
+(1.6) NPC: NPC message (end of message)
+(1.7) player: player message (end of message)
+(1.8) NPC: NPC message (end of message)
+(1.9) player: player message (end of message)
+(1.10) NPC: NPC message (end of message)
+(1.11) player: player message (end of message)
+(1.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 2
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(2.1) player: player message (end of message)
+(2.2) NPC: NPC message (end of message)
+(2.3) player: player message (end of message)
+(2.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 3
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(3.1) player: player message (end of message)
+(3.2) NPC: NPC message (end of message)
+(3.3) player: player message (end of message)
+(3.4) NPC: NPC message (end of message)
+(3.5) player: player message (end of message)
+(3.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 4
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(4.1) player: player message (end of message)
+(4.2) NPC: NPC message (end of message)
+(4.3) player: player message (end of message)
+(4.4) NPC: NPC message (end of message)
+(4.5) player: player message (end of message)
+(4.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 5
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(5.1) player: player message (end of message)
+(5.2) NPC: NPC message (end of message)
+(5.3) player: player message (end of message)
+(5.4) NPC: NPC message (end of message)
+(5.5) player: player message (end of message)
+(5.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 6
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(6.1) player: player message (end of message)
+(6.2) NPC: NPC message (end of message)
+(6.3) player: player message (end of message)
+(6.4) NPC: NPC message (end of message)
+(6.5) player: player message (end of message)
+(6.6) NPC: NPC message (end of message)
+(6.7) player: player message (end of message)
+(6.8) NPC: NPC message (end of message)
+(6.9) player: player message (end of message)
+(6.10) NPC: NPC message (end of message)
+(6.11) player: player message (end of message)
+(6.12) NPC: NPC message (end of message)
+(6.13) player: player message (end of message)
+(6.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 7
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(7.1) player: player message (end of message)
+(7.2) NPC: NPC message (end of message)
+(7.3) player: player message (end of message)
+(7.4) NPC: NPC message (end of message)
+(7.5) player: player message (end of message)
+(7.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 8
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(8.1) player: player message (end of message)
+(8.2) NPC: NPC message (end of message)
+(8.3) player: player message (end of message)
+(8.4) NPC: NPC message (end of message)
+(8.5) player: player message (end of message)
+(8.6) NPC: NPC message (end of message)
+(8.7) player: player message (end of message)
+(8.8) NPC: NPC message (end of message)
+(8.9) player: player message (end of message)
+(8.10) NPC: NPC message (end of message)
+(8.11) player: player message (end of message)
+(8.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 9
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(9.1) player: player message (end of message)
+(9.2) NPC: NPC message (end of message)
+(9.3) player: player message (end of message)
+(9.4) NPC: NPC message (end of message)
+(9.5) player: player message (end of message)
+(9.6) NPC: NPC message (end of message)
+(9.7) player: player message (end of message)
+(9.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 10
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(10.1) player: player message (end of message)
+(10.2) NPC: NPC message (end of message)
+(10.3) player: player message (end of message)
+(10.4) NPC: NPC message (end of message)
+(10.5) player: player message (end of message)
+(10.6) NPC: NPC message (end of message)
+(10.7) player: player message (end of message)
+(10.8) NPC: NPC message (end of message)
+(10.9) player: player message (end of message)
+(10.10) NPC: NPC message (end of message)
+(10.11) player: player message (end of message)
+(10.12) NPC: NPC message (end of message)
+(10.13) player: player message (end of message)
+(10.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 11
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(11.1) player: player message (end of message)
+(11.2) NPC: NPC message (end of message)
+(11.3) player: player message (end of message)
+(11.4) NPC: NPC message (end of message)
+(11.5) player: player message (end of message)
+(11.6) NPC: NPC message (end of message)
+(11.7) player: player message (end of message)
+(11.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 12
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(12.1) player: player message (end of message)
+(12.2) NPC: NPC message (end of message)
+(12.3) player: player message (end of message)
+(12.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 13
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(13.1) player: player message (end of message)
+(13.2) NPC: NPC message (end of message)
+(13.3) player: player message (end of message)
+(13.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 14
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(14.1) player: player message (end of message)
+(14.2) NPC: NPC message (end of message)
+(14.3) player: player message (end of message)
+(14.4) NPC: NPC message (end of message)
+(14.5) player: player message (end of message)
+(14.6) NPC: NPC message (end of message)
+(14.7) player: player message (end of message)
+(14.8) NPC: NPC message (end of message)
+(14.9) player: player message (end of message)
+(14.10) NPC: NPC message (end of message)
+(14.11) player: player message (end of message)
+(14.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 15
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(15.1) player: player message (end of message)
+(15.2) NPC: NPC message (end of message)
+(15.3) player: player message (end of message)
+(15.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 16
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(16.1) player: player message (end of message)
+(16.2) NPC: NPC message (end of message)
+(16.3) player: player message (end of message)
+(16.4) NPC: NPC message (end of message)
+(16.5) player: player message (end of message)
+(16.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 17
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(17.1) player: player message (end of message)
+(17.2) NPC: NPC message (end of message)
+(17.3) player: player message (end of message)
+(17.4) NPC: NPC message (end of message)
+(17.5) player: player message (end of message)
+(17.6) NPC: NPC message (end of message)
+(17.7) player: player message (end of message)
+(17.8) NPC: NPC message (end of message)
+(17.9) player: player message (end of message)
+(17.10) NPC: NPC message (end of message)
+(17.11) player: player message (end of message)
+(17.12) NPC: NPC message (end of message)
+(17.13) player: player message (end of message)
+(17.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 18
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(18.1) player: player message (end of message)
+(18.2) NPC: NPC message (end of message)
+(18.3) player: player message (end of message)
+(18.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 19
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(19.1) player: player message (end of message)
+(19.2) NPC: NPC message (end of message)
+(19.3) player: player message (end of message)
+(19.4) NPC: NPC message (end of message)
+(19.5) player: player message (end of message)
+(19.6) NPC: NPC message (end of message)
+(19.7) player: player message (end of message)
+(19.8) NPC: NPC message (end of message)
+(19.9) player: player message (end of message)
+(19.10) NPC: NPC message (end of message)
+(19.11) player: player message (end of message)
+(19.12) NPC: NPC message (end of message)
+(19.13) player: player message (end of message)
+(19.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 20
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(20.1) player: player message (end of message)
+(20.2) NPC: NPC message (end of message)
+(20.3) player: player message (end of message)
+(20.4) NPC: NPC message (end of message)
+(20.5) player: player message (end of message)
+(20.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 21
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(21.1) player: player message (end of message)
+(21.2) NPC: NPC message (end of message)
+(21.3) player: player message (end of message)
+(21.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 22
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(22.1) player: player message (end of message)
+(22.2) NPC: NPC message (end of message)
+(22.3) player: player message (end of message)
+(22.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 23
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(23.1) player: player message (end of message)
+(23.2) NPC: NPC message (end of message)
+(23.3) player: player message (end of message)
+(23.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 24
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(24.1) player: player message (end of message)
+(24.2) NPC: NPC message (end of message)
+(24.3) player: player message (end of message)
+(24.4) NPC: NPC message (end of message)
+(24.5) player: player message (end of message)
+(24.6) NPC: NPC message (end of message)
+(24.7) player: player message (end of message)
+(24.8) NPC: NPC message (end of message)
+(24.9) player: player message (end of message)
+(24.10) NPC: NPC message (end of message)
+(24.11) player: player message (end of message)
+(24.12) NPC: NPC message (end of message)
+(24.13) player: player message (end of message)
+(24.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 25
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(25.1) player: player message (end of message)
+(25.2) NPC: NPC message (end of message)
+(25.3) player: player message (end of message)
+(25.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 26
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(26.1) player: player message (end of message)
+(26.2) NPC: NPC message (end of message)
+(26.3) player: player message (end of message)
+(26.4) NPC: NPC message (end of message)
+(26.5) player: player message (end of message)
+(26.6) NPC: NPC message (end of message)
+(26.7) player: player message (end of message)
+(26.8) NPC: NPC message (end of message)
+(26.9) player: player message (end of message)
+(26.10) NPC: NPC message (end of message)
+(26.11) player: player message (end of message)
+(26.12) NPC: NPC message (end of message)
+(26.13) player: player message (end of message)
+(26.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 27
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(27.1) player: player message (end of message)
+(27.2) NPC: NPC message (end of message)
+(27.3) player: player message (end of message)
+(27.4) NPC: NPC message (end of message)
+(27.5) player: player message (end of message)
+(27.6) NPC: NPC message (end of message)
+(27.7) player: player message (end of message)
+(27.8) NPC: NPC message (end of message)
+(27.9) player: player message (end of message)
+(27.10) NPC: NPC message (end of message)
+(27.11) player: player message (end of message)
+(27.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 28
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(28.1) player: player message (end of message)
+(28.2) NPC: NPC message (end of message)
+(28.3) player: player message (end of message)
+(28.4) NPC: NPC message (end of message)
+(28.5) player: player message (end of message)
+(28.6) NPC: NPC message (end of message)
+(28.7) player: player message (end of message)
+(28.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 29
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(29.1) player: player message (end of message)
+(29.2) NPC: NPC message (end of message)
+(29.3) player: player message (end of message)
+(29.4) NPC: NPC message (end of message)
+(29.5) player: player message (end of message)
+(29.6) NPC: NPC message (end of message)
+(29.7) player: player message (end of message)
+(29.8) NPC: NPC message (end of message)
+(29.9) player: player message (end of message)
+(29.10) NPC: NPC message (end of message)
+(29.11) player: player message (end of message)
+(29.12) NPC: NPC message (end of message)
+(29.13) player: player message (end of message)
+(29.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 30
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(30.1) player: player message (end of message)
+(30.2) NPC: NPC message (end of message)
+(30.3) player: player message (end of message)
+(30.4) NPC: NPC message (end of message)
+(30.5) player: player message (end of message)
+(30.6) NPC: NPC message (end of message)
+(30.7) player: player message (end of message)
+(30.8) NPC: NPC message (end of message)
+(30.9) player: player message (end of message)
+(30.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 31
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(31.1) player: player message (end of message)
+(31.2) NPC: NPC message (end of message)
+(31.3) player: player message (end of message)
+(31.4) NPC: NPC message (end of message)
+(31.5) player: player message (end of message)
+(31.6) NPC: NPC message (end of message)
+(31.7) player: player message (end of message)
+(31.8) NPC: NPC message (end of message)
+(31.9) player: player message (end of message)
+(31.10) NPC: NPC message (end of message)
+(31.11) player: player message (end of message)
+(31.12) NPC: NPC message (end of message)
+(31.13) player: player message (end of message)
+(31.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 32
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(32.1) player: player message (end of message)
+(32.2) NPC: NPC message (end of message)
+(32.3) player: player message (end of message)
+(32.4) NPC: NPC message (end of message)
+(32.5) player: player message (end of message)
+(32.6) NPC: NPC message (end of message)
+(32.7) player: player message (end of message)
+(32.8) NPC: NPC message (end of message)
+(32.9) player: player message (end of message)
+(32.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 33
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(33.1) player: player message (end of message)
+(33.2) NPC: NPC message (end of message)
+(33.3) player: player message (end of message)
+(33.4) NPC: NPC message (end of message)
+(33.5) player: player message (end of message)
+(33.6) NPC: NPC message (end of message)
+(33.7) player: player message (end of message)
+(33.8) NPC: NPC message (end of message)
+(33.9) player: player message (end of message)
+(33.10) NPC: NPC message (end of message)
+(33.11) player: player message (end of message)
+(33.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 34
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(34.1) player: player message (end of message)
+(34.2) NPC: NPC message (end of message)
+(34.3) player: player message (end of message)
+(34.4) NPC: NPC message (end of message)
+(34.5) player: player message (end of message)
+(34.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 35
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(35.1) player: player message (end of message)
+(35.2) NPC: NPC message (end of message)
+(35.3) player: player message (end of message)
+(35.4) NPC: NPC message (end of message)
+(35.5) player: player message (end of message)
+(35.6) NPC: NPC message (end of message)
+(35.7) player: player message (end of message)
+(35.8) NPC: NPC message (end of message)
+(35.9) player: player message (end of message)
+(35.10) NPC: NPC message (end of message)
+(35.11) player: player message (end of message)
+(35.12) NPC: NPC message (end of message)
+(35.13) player: player message (end of message)
+(35.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 36
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(36.1) player: player message (end of message)
+(36.2) NPC: NPC message (end of message)
+(36.3) player: player message (end of message)
+(36.4) NPC: NPC message (end of message)
+(36.5) player: player message (end of message)
+(36.6) NPC: NPC message (end of message)
+(36.7) player: player message (end of message)
+(36.8) NPC: NPC message (end of message)
+(36.9) player: player message (end of message)
+(36.10) NPC: NPC message (end of message)
+(36.11) player: player message (end of message)
+(36.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 37
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(37.1) player: player message (end of message)
+(37.2) NPC: NPC message (end of message)
+(37.3) player: player message (end of message)
+(37.4) NPC: NPC message (end of message)
+(37.5) player: player message (end of message)
+(37.6) NPC: NPC message (end of message)
+(37.7) player: player message (end of message)
+(37.8) NPC: NPC message (end of message)
+(37.9) player: player message (end of message)
+(37.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 38
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(38.1) player: player message (end of message)
+(38.2) NPC: NPC message (end of message)
+(38.3) player: player message (end of message)
+(38.4) NPC: NPC message (end of message)
+(38.5) player: player message (end of message)
+(38.6) NPC: NPC message (end of message)
+(38.7) player: player message (end of message)
+(38.8) NPC: NPC message (end of message)
+(38.9) player: player message (end of message)
+(38.10) NPC: NPC message (end of message)
+(38.11) player: player message (end of message)
+(38.12) NPC: NPC message (end of message)
+(38.13) player: player message (end of message)
+(38.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 39
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(39.1) player: player message (end of message)
+(39.2) NPC: NPC message (end of message)
+(39.3) player: player message (end of message)
+(39.4) NPC: NPC message (end of message)
+(39.5) player: player message (end of message)
+(39.6) NPC: NPC message (end of message)
+(39.7) player: player message (end of message)
+(39.8) NPC: NPC message (end of message)
+(39.9) player: player message (end of message)
+(39.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 40
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(40.1) player: player message (end of message)
+(40.2) NPC: NPC message (end of message)
+(40.3) player: player message (end of message)
+(40.4) NPC: NPC message (end of message)
+(40.5) player: player message (end of message)
+(40.6) NPC: NPC message (end of message)
+(40.7) player: player message (end of message)
+(40.8) NPC: NPC message (end of message)
+(40.9) player: player message (end of message)
+(40.10) NPC: NPC message (end of message)
+(40.11) player: player message (end of message)
+(40.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 41
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(41.1) player: player message (end of message)
+(41.2) NPC: NPC message (end of message)
+(41.3) player: player message (end of message)
+(41.4) NPC: NPC message (end of message)
+(41.5) player: player message (end of message)
+(41.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 42
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(42.1) player: player message (end of message)
+(42.2) NPC: NPC message (end of message)
+(42.3) player: player message (end of message)
+(42.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 43
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(43.1) player: player message (end of message)
+(43.2) NPC: NPC message (end of message)
+(43.3) player: player message (end of message)
+(43.4) NPC: NPC message (end of message)
+(43.5) player: player message (end of message)
+(43.6) NPC: NPC message (end of message)
+(43.7) player: player message (end of message)
+(43.8) NPC: NPC message (end of message)
+(43.9) player: player message (end of message)
+(43.10) NPC: NPC message (end of message)
+(43.11) player: player message (end of message)
+(43.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 44
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(44.1) player: player message (end of message)
+(44.2) NPC: NPC message (end of message)
+(44.3) player: player message (end of message)
+(44.4) NPC: NPC message (end of message)
+(44.5) player: player message (end of message)
+(44.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 45
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(45.1) player: player message (end of message)
+(45.2) NPC: NPC message (end of message)
+(45.3) player: player message (end of message)
+(45.4) NPC: NPC message (end of message)
+(45.5) player: player message (end of message)
+(45.6) NPC: NPC message (end of message)
+(45.7) player: player message (end of message)
+(45.8) NPC: NPC message (end of message)
+(45.9) player: player message (end of message)
+(45.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 46
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(46.1) player: player message (end of message)
+(46.2) NPC: NPC message (end of message)
+(46.3) player: player message (end of message)
+(46.4) NPC: NPC message (end of message)
+(46.5) player: player message (end of message)
+(46.6) NPC: NPC message (end of message)
+(46.7) player: player message (end of message)
+(46.8) NPC: NPC message (end of message)
+(46.9) player: player message (end of message)
+(46.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 47
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(47.1) player: player message (end of message)
+(47.2) NPC: NPC message (end of message)
+(47.3) player: player message (end of message)
+(47.4) NPC: NPC message (end of message)
+(47.5) player: player message (end of message)
+(47.6) NPC: NPC message (end of message)
+(47.7) player: player message (end of message)
+(47.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 48
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(48.1) player: player message (end of message)
+(48.2) NPC: NPC message (end of message)
+(48.3) player: player message (end of message)
+(48.4) NPC: NPC message (end of message)
+(48.5) player: player message (end of message)
+(48.6) NPC: NPC message (end of message)
+(48.7) player: player message (end of message)
+(48.8) NPC: NPC message (end of message)
+(48.9) player: player message (end of message)
+(48.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 49
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(49.1) player: player message (end of message)
+(49.2) NPC: NPC message (end of message)
+(49.3) player: player message (end of message)
+(49.4) NPC: NPC message (end of message)
+(49.5) player: player message (end of message)
+(49.6) NPC: NPC message (end of message)
+(49.7) player: player message (end of message)
+(49.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 50
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(50.1) player: player message (end of message)
+(50.2) NPC: NPC message (end of message)
+(50.3) player: player message (end of message)
+(50.4) NPC: NPC message (end of message)
+(50.5) player: player message (end of message)
+(50.6) NPC: NPC message (end of message)
+(50.7) player: player message (end of message)
+(50.8) NPC: NPC message (end of message)
+(50.9) player: player message (end of message)
+(50.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 51
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(51.1) player: player message (end of message)
+(51.2) NPC: NPC message (end of message)
+(51.3) player: player message (end of message)
+(51.4) NPC: NPC message (end of message)
+(51.5) player: player message (end of message)
+(51.6) NPC: NPC message (end of message)
+(51.7) player: player message (end of message)
+(51.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 52
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(52.1) player: player message (end of message)
+(52.2) NPC: NPC message (end of message)
+(52.3) player: player message (end of message)
+(52.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 53
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(53.1) player: player message (end of message)
+(53.2) NPC: NPC message (end of message)
+(53.3) player: player message (end of message)
+(53.4) NPC: NPC message (end of message)
+(53.5) player: player message (end of message)
+(53.6) NPC: NPC message (end of message)
+(53.7) player: player message (end of message)
+(53.8) NPC: NPC message (end of message)
+(53.9) player: player message (end of message)
+(53.10) NPC: NPC message (end of message)
+(53.11) player: player message (end of message)
+(53.12) NPC: NPC message (end of message)
+(53.13) player: player message (end of message)
+(53.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 54
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(54.1) player: player message (end of message)
+(54.2) NPC: NPC message (end of message)
+(54.3) player: player message (end of message)
+(54.4) NPC: NPC message (end of message)
+(54.5) player: player message (end of message)
+(54.6) NPC: NPC message (end of message)
+(54.7) player: player message (end of message)
+(54.8) NPC: NPC message (end of message)
+(54.9) player: player message (end of message)
+(54.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 55
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(55.1) player: player message (end of message)
+(55.2) NPC: NPC message (end of message)
+(55.3) player: player message (end of message)
+(55.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 56
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(56.1) player: player message (end of message)
+(56.2) NPC: NPC message (end of message)
+(56.3) player: player message (end of message)
+(56.4) NPC: NPC message (end of message)
+(56.5) player: player message (end of message)
+(56.6) NPC: NPC message (end of message)
+(56.7) player: player message (end of message)
+(56.8) NPC: NPC message (end of message)
+(56.9) player: player message (end of message)
+(56.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 57
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(57.1) player: player message (end of message)
+(57.2) NPC: NPC message (end of message)
+(57.3) player: player message (end of message)
+(57.4) NPC: NPC message (end of message)
+(57.5) player: player message (end of message)
+(57.6) NPC: NPC message (end of message)
+(57.7) player: player message (end of message)
+(57.8) NPC: NPC message (end of message)
+(57.9) player: player message (end of message)
+(57.10) NPC: NPC message (end of message)
+(57.11) player: player message (end of message)
+(57.12) NPC: NPC message (end of message)
+(57.13) player: player message (end of message)
+(57.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 58
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(58.1) player: player message (end of message)
+(58.2) NPC: NPC message (end of message)
+(58.3) player: player message (end of message)
+(58.4) NPC: NPC message (end of message)
+(58.5) player: player message (end of message)
+(58.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 59
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(59.1) player: player message (end of message)
+(59.2) NPC: NPC message (end of message)
+(59.3) player: player message (end of message)
+(59.4) NPC: NPC message (end of message)
+(59.5) player: player message (end of message)
+(59.6) NPC: NPC message (end of message)
+(59.7) player: player message (end of message)
+(59.8) NPC: NPC message (end of message)
+(59.9) player: player message (end of message)
+(59.10) NPC: NPC message (end of message)
+(59.11) player: player message (end of message)
+(59.12) NPC: NPC message (end of message)
+(59.13) player: player message (end of message)
+(59.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 60
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(60.1) player: player message (end of message)
+(60.2) NPC: NPC message (end of message)
+(60.3) player: player message (end of message)
+(60.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 61
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(61.1) player: player message (end of message)
+(61.2) NPC: NPC message (end of message)
+(61.3) player: player message (end of message)
+(61.4) NPC: NPC message (end of message)
+(61.5) player: player message (end of message)
+(61.6) NPC: NPC message (end of message)
+(61.7) player: player message (end of message)
+(61.8) NPC: NPC message (end of message)
+(61.9) player: player message (end of message)
+(61.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 62
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(62.1) player: player message (end of message)
+(62.2) NPC: NPC message (end of message)
+(62.3) player: player message (end of message)
+(62.4) NPC: NPC message (end of message)
+(62.5) player: player message (end of message)
+(62.6) NPC: NPC message (end of message)
+(62.7) player: player message (end of message)
+(62.8) NPC: NPC message (end of message)
+(62.9) player: player message (end of message)
+(62.10) NPC: NPC message (end of message)
+(62.11) player: player message (end of message)
+(62.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 63
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(63.1) player: player message (end of message)
+(63.2) NPC: NPC message (end of message)
+(63.3) player: player message (end of message)
+(63.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 64
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(64.1) player: player message (end of message)
+(64.2) NPC: NPC message (end of message)
+(64.3) player: player message (end of message)
+(64.4) NPC: NPC message (end of message)
+(64.5) player: player message (end of message)
+(64.6) NPC: NPC message (end of message)
+(64.7) player: player message (end of message)
+(64.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 65
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(65.1) player: player message (end of message)
+(65.2) NPC: NPC message (end of message)
+(65.3) player: player message (end of message)
+(65.4) NPC: NPC message (end of message)
+(65.5) player: player message (end of message)
+(65.6) NPC: NPC message (end of message)
+(65.7) player: player message (end of message)
+(65.8) NPC: NPC message (end of message)
+(65.9) player: player message (end of message)
+(65.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 66
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(66.1) player: player message (end of message)
+(66.2) NPC: NPC message (end of message)
+(66.3) player: player message (end of message)
+(66.4) NPC: NPC message (end of message)
+(66.5) player: player message (end of message)
+(66.6) NPC: NPC message (end of message)
+(66.7) player: player message (end of message)
+(66.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 67
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(67.1) player: player message (end of message)
+(67.2) NPC: NPC message (end of message)
+(67.3) player: player message (end of message)
+(67.4) NPC: NPC message (end of message)
+(67.5) player: player message (end of message)
+(67.6) NPC: NPC message (end of message)
+(67.7) player: player message (end of message)
+(67.8) NPC: NPC message (end of message)
+(67.9) player: player message (end of message)
+(67.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 68
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(68.1) player: player message (end of message)
+(68.2) NPC: NPC message (end of message)
+(68.3) player: player message (end of message)
+(68.4) NPC: NPC message (end of message)
+(68.5) player: player message (end of message)
+(68.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 69
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(69.1) player: player message (end of message)
+(69.2) NPC: NPC message (end of message)
+(69.3) player: player message (end of message)
+(69.4) NPC: NPC message (end of message)
+(69.5) player: player message (end of message)
+(69.6) NPC: NPC message (end of message)
+(69.7) player: player message (end of message)
+(69.8) NPC: NPC message (end of message)
+(69.9) player: player message (end of message)
+(69.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 70
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(70.1) player: player message (end of message)
+(70.2) NPC: NPC message (end of message)
+(70.3) player: player message (end of message)
+(70.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 71
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(71.1) player: player message (end of message)
+(71.2) NPC: NPC message (end of message)
+(71.3) player: player message (end of message)
+(71.4) NPC: NPC message (end of message)
+(71.5) player: player message (end of message)
+(71.6) NPC: NPC message (end of message)
+(71.7) player: player message (end of message)
+(71.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 72
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(72.1) player: player message (end of message)
+(72.2) NPC: NPC message (end of message)
+(72.3) player: player message (end of message)
+(72.4) NPC: NPC message (end of message)
+(72.5) player: player message (end of message)
+(72.6) NPC: NPC message (end of message)
+(72.7) player: player message (end of message)
+(72.8) NPC: NPC message (end of message)
+(72.9) player: player message (end of message)
+(72.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 73
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(73.1) player: player message (end of message)
+(73.2) NPC: NPC message (end of message)
+(73.3) player: player message (end of message)
+(73.4) NPC: NPC message (end of message)
+(73.5) player: player message (end of message)
+(73.6) NPC: NPC message (end of message)
+(73.7) player: player message (end of message)
+(73.8) NPC: NPC message (end of message)
+(73.9) player: player message (end of message)
+(73.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 74
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(74.1) player: player message (end of message)
+(74.2) NPC: NPC message (end of message)
+(74.3) player: player message (end of message)
+(74.4) NPC: NPC message (end of message)
+(74.5) player: player message (end of message)
+(74.6) NPC: NPC message (end of message)
+(74.7) player: player message (end of message)
+(74.8) NPC: NPC message (end of message)
+(74.9) player: player message (end of message)
+(74.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 75
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(75.1) player: player message (end of message)
+(75.2) NPC: NPC message (end of message)
+(75.3) player: player message (end of message)
+(75.4) NPC: NPC message (end of message)
+(75.5) player: player message (end of message)
+(75.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 76
+Depth: 2
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(76.1) player: player message (end of message)
+(76.2) NPC: NPC message (end of message)
+(76.3) player: player message (end of message)
+(76.4) NPC: NPC message (end of message)
+
+#####
+
+Conversation 77
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(77.1) player: player message (end of message)
+(77.2) NPC: NPC message (end of message)
+(77.3) player: player message (end of message)
+(77.4) NPC: NPC message (end of message)
+(77.5) player: player message (end of message)
+(77.6) NPC: NPC message (end of message)
+(77.7) player: player message (end of message)
+(77.8) NPC: NPC message (end of message)
+(77.9) player: player message (end of message)
+(77.10) NPC: NPC message (end of message)
+(77.11) player: player message (end of message)
+(77.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 78
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(78.1) player: player message (end of message)
+(78.2) NPC: NPC message (end of message)
+(78.3) player: player message (end of message)
+(78.4) NPC: NPC message (end of message)
+(78.5) player: player message (end of message)
+(78.6) NPC: NPC message (end of message)
+(78.7) player: player message (end of message)
+(78.8) NPC: NPC message (end of message)
+(78.9) player: player message (end of message)
+(78.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 79
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(79.1) player: player message (end of message)
+(79.2) NPC: NPC message (end of message)
+(79.3) player: player message (end of message)
+(79.4) NPC: NPC message (end of message)
+(79.5) player: player message (end of message)
+(79.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 80
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(80.1) player: player message (end of message)
+(80.2) NPC: NPC message (end of message)
+(80.3) player: player message (end of message)
+(80.4) NPC: NPC message (end of message)
+(80.5) player: player message (end of message)
+(80.6) NPC: NPC message (end of message)
+(80.7) player: player message (end of message)
+(80.8) NPC: NPC message (end of message)
+(80.9) player: player message (end of message)
+(80.10) NPC: NPC message (end of message)
+(80.11) player: player message (end of message)
+(80.12) NPC: NPC message (end of message)
+(80.13) player: player message (end of message)
+(80.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 81
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(81.1) player: player message (end of message)
+(81.2) NPC: NPC message (end of message)
+(81.3) player: player message (end of message)
+(81.4) NPC: NPC message (end of message)
+(81.5) player: player message (end of message)
+(81.6) NPC: NPC message (end of message)
+(81.7) player: player message (end of message)
+(81.8) NPC: NPC message (end of message)
+(81.9) player: player message (end of message)
+(81.10) NPC: NPC message (end of message)
+(81.11) player: player message (end of message)
+(81.12) NPC: NPC message (end of message)
+(81.13) player: player message (end of message)
+(81.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 82
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(82.1) player: player message (end of message)
+(82.2) NPC: NPC message (end of message)
+(82.3) player: player message (end of message)
+(82.4) NPC: NPC message (end of message)
+(82.5) player: player message (end of message)
+(82.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 83
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(83.1) player: player message (end of message)
+(83.2) NPC: NPC message (end of message)
+(83.3) player: player message (end of message)
+(83.4) NPC: NPC message (end of message)
+(83.5) player: player message (end of message)
+(83.6) NPC: NPC message (end of message)
+(83.7) player: player message (end of message)
+(83.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 84
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(84.1) player: player message (end of message)
+(84.2) NPC: NPC message (end of message)
+(84.3) player: player message (end of message)
+(84.4) NPC: NPC message (end of message)
+(84.5) player: player message (end of message)
+(84.6) NPC: NPC message (end of message)
+(84.7) player: player message (end of message)
+(84.8) NPC: NPC message (end of message)
+(84.9) player: player message (end of message)
+(84.10) NPC: NPC message (end of message)
+(84.11) player: player message (end of message)
+(84.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 85
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(85.1) player: player message (end of message)
+(85.2) NPC: NPC message (end of message)
+(85.3) player: player message (end of message)
+(85.4) NPC: NPC message (end of message)
+(85.5) player: player message (end of message)
+(85.6) NPC: NPC message (end of message)
+(85.7) player: player message (end of message)
+(85.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 86
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(86.1) player: player message (end of message)
+(86.2) NPC: NPC message (end of message)
+(86.3) player: player message (end of message)
+(86.4) NPC: NPC message (end of message)
+(86.5) player: player message (end of message)
+(86.6) NPC: NPC message (end of message)
+(86.7) player: player message (end of message)
+(86.8) NPC: NPC message (end of message)
+(86.9) player: player message (end of message)
+(86.10) NPC: NPC message (end of message)
+(86.11) player: player message (end of message)
+(86.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 87
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(87.1) player: player message (end of message)
+(87.2) NPC: NPC message (end of message)
+(87.3) player: player message (end of message)
+(87.4) NPC: NPC message (end of message)
+(87.5) player: player message (end of message)
+(87.6) NPC: NPC message (end of message)
+(87.7) player: player message (end of message)
+(87.8) NPC: NPC message (end of message)
+(87.9) player: player message (end of message)
+(87.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 88
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(88.1) player: player message (end of message)
+(88.2) NPC: NPC message (end of message)
+(88.3) player: player message (end of message)
+(88.4) NPC: NPC message (end of message)
+(88.5) player: player message (end of message)
+(88.6) NPC: NPC message (end of message)
+(88.7) player: player message (end of message)
+(88.8) NPC: NPC message (end of message)
+(88.9) player: player message (end of message)
+(88.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 89
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(89.1) player: player message (end of message)
+(89.2) NPC: NPC message (end of message)
+(89.3) player: player message (end of message)
+(89.4) NPC: NPC message (end of message)
+(89.5) player: player message (end of message)
+(89.6) NPC: NPC message (end of message)
+(89.7) player: player message (end of message)
+(89.8) NPC: NPC message (end of message)
+(89.9) player: player message (end of message)
+(89.10) NPC: NPC message (end of message)
+(89.11) player: player message (end of message)
+(89.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 90
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(90.1) player: player message (end of message)
+(90.2) NPC: NPC message (end of message)
+(90.3) player: player message (end of message)
+(90.4) NPC: NPC message (end of message)
+(90.5) player: player message (end of message)
+(90.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 91
+Depth: 4
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(91.1) player: player message (end of message)
+(91.2) NPC: NPC message (end of message)
+(91.3) player: player message (end of message)
+(91.4) NPC: NPC message (end of message)
+(91.5) player: player message (end of message)
+(91.6) NPC: NPC message (end of message)
+(91.7) player: player message (end of message)
+(91.8) NPC: NPC message (end of message)
+
+#####
+
+Conversation 92
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(92.1) player: player message (end of message)
+(92.2) NPC: NPC message (end of message)
+(92.3) player: player message (end of message)
+(92.4) NPC: NPC message (end of message)
+(92.5) player: player message (end of message)
+(92.6) NPC: NPC message (end of message)
+(92.7) player: player message (end of message)
+(92.8) NPC: NPC message (end of message)
+(92.9) player: player message (end of message)
+(92.10) NPC: NPC message (end of message)
+(92.11) player: player message (end of message)
+(92.12) NPC: NPC message (end of message)
+(92.13) player: player message (end of message)
+(92.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 93
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(93.1) player: player message (end of message)
+(93.2) NPC: NPC message (end of message)
+(93.3) player: player message (end of message)
+(93.4) NPC: NPC message (end of message)
+(93.5) player: player message (end of message)
+(93.6) NPC: NPC message (end of message)
+(93.7) player: player message (end of message)
+(93.8) NPC: NPC message (end of message)
+(93.9) player: player message (end of message)
+(93.10) NPC: NPC message (end of message)
+(93.11) player: player message (end of message)
+(93.12) NPC: NPC message (end of message)
+(93.13) player: player message (end of message)
+(93.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 94
+Depth: 3
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(94.1) player: player message (end of message)
+(94.2) NPC: NPC message (end of message)
+(94.3) player: player message (end of message)
+(94.4) NPC: NPC message (end of message)
+(94.5) player: player message (end of message)
+(94.6) NPC: NPC message (end of message)
+
+#####
+
+Conversation 95
+Depth: 5
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(95.1) player: player message (end of message)
+(95.2) NPC: NPC message (end of message)
+(95.3) player: player message (end of message)
+(95.4) NPC: NPC message (end of message)
+(95.5) player: player message (end of message)
+(95.6) NPC: NPC message (end of message)
+(95.7) player: player message (end of message)
+(95.8) NPC: NPC message (end of message)
+(95.9) player: player message (end of message)
+(95.10) NPC: NPC message (end of message)
+
+#####
+
+Conversation 96
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(96.1) player: player message (end of message)
+(96.2) NPC: NPC message (end of message)
+(96.3) player: player message (end of message)
+(96.4) NPC: NPC message (end of message)
+(96.5) player: player message (end of message)
+(96.6) NPC: NPC message (end of message)
+(96.7) player: player message (end of message)
+(96.8) NPC: NPC message (end of message)
+(96.9) player: player message (end of message)
+(96.10) NPC: NPC message (end of message)
+(96.11) player: player message (end of message)
+(96.12) NPC: NPC message (end of message)
+(96.13) player: player message (end of message)
+(96.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 97
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(97.1) player: player message (end of message)
+(97.2) NPC: NPC message (end of message)
+(97.3) player: player message (end of message)
+(97.4) NPC: NPC message (end of message)
+(97.5) player: player message (end of message)
+(97.6) NPC: NPC message (end of message)
+(97.7) player: player message (end of message)
+(97.8) NPC: NPC message (end of message)
+(97.9) player: player message (end of message)
+(97.10) NPC: NPC message (end of message)
+(97.11) player: player message (end of message)
+(97.12) NPC: NPC message (end of message)
+
+#####
+
+Conversation 98
+Depth: 7
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(98.1) player: player message (end of message)
+(98.2) NPC: NPC message (end of message)
+(98.3) player: player message (end of message)
+(98.4) NPC: NPC message (end of message)
+(98.5) player: player message (end of message)
+(98.6) NPC: NPC message (end of message)
+(98.7) player: player message (end of message)
+(98.8) NPC: NPC message (end of message)
+(98.9) player: player message (end of message)
+(98.10) NPC: NPC message (end of message)
+(98.11) player: player message (end of message)
+(98.12) NPC: NPC message (end of message)
+(98.13) player: player message (end of message)
+(98.14) NPC: NPC message (end of message)
+
+#####
+
+Conversation 99
+Depth: 6
+This is a conversation between a player and a NPC in Pokemon game. NPC gives the player an instruction after having small talk. The conversation starts with a greeting and has to contain the goal.
+player is a pokemon trainer on his quest to catch all pokemon and defeat all pokemon trainers. player is helpful, friendly and a good pokemon trainer. Context of npc.
+
+Conversation goal.
+    
+(99.1) player: player message (end of message)
+(99.2) NPC: NPC message (end of message)
+(99.3) player: player message (end of message)
+(99.4) NPC: NPC message (end of message)
+(99.5) player: player message (end of message)
+(99.6) NPC: NPC message (end of message)
+(99.7) player: player message (end of message)
+(99.8) NPC: NPC message (end of message)
+(99.9) player: player message (end of message)
+(99.10) NPC: NPC message (end of message)
+(99.11) player: player message (end of message)
+(99.12) NPC: NPC message (end of message)
+
+#####
+
