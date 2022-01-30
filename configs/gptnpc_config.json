@@ -21,7 +21,7 @@
 
   "tpu_size": 8,
 
-  "bucket": "finetune-bucket",
+  "bucket": "tune-bucket-europe",
   "model_dir": "gptnpc_checkpoints",
 
   "train_set": "structure.train.index",

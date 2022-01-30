@@ -1,0 +1,29 @@
+2022-01-30 16:06:29,785 INFO    MainThread:12164 [wandb_setup.py:_flush():71] setting env: {}
+2022-01-30 16:06:29,785 INFO    MainThread:12164 [wandb_setup.py:_flush():71] setting login settings: {}
+2022-01-30 16:06:29,785 INFO    MainThread:12164 [wandb_setup.py:_flush():71] setting login settings: {'mode': 'offline'}
+2022-01-30 16:06:29,785 INFO    MainThread:12164 [wandb_init.py:_log_setup():371] Logging user logs to /home/gilpa/mesh-transformer-jax/wandb/offline-run-20220130_160629-34zey7e3/logs/debug.log
+2022-01-30 16:06:29,785 INFO    MainThread:12164 [wandb_init.py:_log_setup():372] Logging internal logs to /home/gilpa/mesh-transformer-jax/wandb/offline-run-20220130_160629-34zey7e3/logs/debug-internal.log
+2022-01-30 16:06:29,785 INFO    MainThread:12164 [wandb_init.py:init():404] calling init triggers
+2022-01-30 16:06:29,786 INFO    MainThread:12164 [wandb_init.py:init():409] wandb.init called with sweep_config: {}
+config: {'layers': 28, 'd_model': 4096, 'n_heads': 16, 'n_vocab': 50400, 'norm': 'layernorm', 'pe': 'rotary', 'pe_rotary_dims': 64, 'seq': 11, 'cores_per_replica': 8, 'per_replica_batch': 1, 'gradient_accumulation_steps': 1, 'warmup_steps': 1, 'anneal_steps': 10, 'lr': 0.00012, 'end_lr': 1.2e-05, 'weight_decay': 0.1, 'total_steps': 11, 'tpu_size': 8, 'bucket': 'finetune-bucket', 'model_dir': 'gptnpc_checkpoints', 'train_set': 'structure.train.index', 'val_set': {}, 'eval_harness_tasks': [], 'val_batches': 11, 'val_every': 10000, 'ckpt_every': 11, 'keep_every': 11, 'name': 'GPT-NPC-model', 'wandb_project': 'mesh-transformer-jax', 'comment': '', 'optimizer': GradientTransformation(init=<function chain.<locals>.init_fn at 0x7fd6b1a88310>, update=<function chain.<locals>.update_fn at 0x7fd6b1a88af0>)}
+2022-01-30 16:06:29,786 INFO    MainThread:12164 [wandb_init.py:init():460] starting backend
+2022-01-30 16:06:29,786 INFO    MainThread:12164 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-01-30 16:06:30,376 INFO    MainThread:12164 [backend.py:ensure_launched():216] starting backend process...
+2022-01-30 16:06:30,964 INFO    MainThread:12164 [backend.py:ensure_launched():221] started backend process with pid: 14641
+2022-01-30 16:06:30,968 INFO    MainThread:12164 [wandb_init.py:init():469] backend started and connected
+2022-01-30 16:06:30,986 INFO    MainThread:12164 [wandb_init.py:init():533] updated telemetry
+2022-01-30 16:06:32,398 INFO    MainThread:12164 [wandb_init.py:init():606] starting run threads in backend
+2022-01-30 16:06:34,331 INFO    MainThread:12164 [wandb_run.py:_console_start():1810] atexit reg
+2022-01-30 16:06:34,331 INFO    MainThread:12164 [wandb_run.py:_redirect():1684] redirect: SettingsConsole.REDIRECT
+2022-01-30 16:06:34,334 INFO    MainThread:12164 [wandb_run.py:_redirect():1689] Redirecting console.
+2022-01-30 16:06:34,336 INFO    MainThread:12164 [wandb_run.py:_redirect():1745] Redirects installed.
+2022-01-30 16:06:34,336 INFO    MainThread:12164 [wandb_init.py:init():633] run started, returning control to user process
+2022-01-30 16:06:34,680 INFO    MainThread:12164 [wandb_run.py:_atexit_cleanup():1780] got exitcode: 1
+2022-01-30 16:06:34,682 INFO    MainThread:12164 [wandb_run.py:_restore():1752] restore
+2022-01-30 16:06:36,878 INFO    MainThread:12164 [wandb_run.py:_wait_for_finish():1912] got exit ret: 
+2022-01-30 16:06:36,981 INFO    MainThread:12164 [wandb_run.py:_wait_for_finish():1912] got exit ret: done: true
+exit_result {
+}
+local_info {
+}
+

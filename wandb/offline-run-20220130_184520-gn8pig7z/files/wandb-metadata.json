@@ -1,0 +1,25 @@
+{
+    "os": "Linux-5.4.0-1043-gcp-x86_64-with-glibc2.29",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-01-30T18:45:25.170530",
+    "startedAt": "2022-01-30T18:45:20.486089",
+    "docker": null,
+    "cpu_count": 96,
+    "cuda": null,
+    "args": [
+        "--config=configs/gptnpc_config.json",
+        "--tune-model-path=gs://tune-bucket-europe/step_383500/"
+    ],
+    "state": "running",
+    "program": "device_train.py",
+    "codePath": "device_train.py",
+    "git": {
+        "remote": "https://github.com/ParmentierGil/mesh-transformer-jax.git",
+        "commit": "09c642340c29ddf8918619cb6091027f49b66a42"
+    },
+    "email": null,
+    "root": "/home/gilpa/mesh-transformer-jax",
+    "host": "t1v-n-f5c8b092-w-0",
+    "username": "gilpa",
+    "executable": "/usr/bin/python3"
+}
