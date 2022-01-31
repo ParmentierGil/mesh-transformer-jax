@@ -1,0 +1,868 @@
+"Hello there! Welcome to the world of Pokémon! My name is Oak! People call me the Pokémon Prof! This world is inhabited by creatures called Pokémon! For some people, Pokémon are pets. Other use them for fights. Myself… I study Pokémon as a profession. First, what is your name? Right! So your name is <player>! This is my grandson. He's been your rival since you were a baby. …Erm, what is his name again? That's right! I remember now! His name is <rival>! <player>! Your very own Pokémon legend is about to unfold! A world of dreams and adventures with Pokémon awaits! Let's go!"
+Pallet Town
+
+While trying to get into tall grass:
+"Hey! Wait! Don't go out! It's unsafe! Wild Pokémon live in tall grass! You need your own Pokémon for your protection. I know! Here, come with me!"RB
+"Hey! Wait! Don't go out! That was close! Wild Pokémon live in tall grass!"Y
+After encountering and catching PikachuY
+"Whew… A Pokémon can appear anytime in tall grass. You need your own Pokémon for your protection. I know! Here, come with me!"
+Oak's Lab
+
+After getting dragged into lab:
+"<rival>? Let me think… Oh, that's right. I told you to come! Just wait! Here, <player>! There are 3 Pokémon here! Haha! They are inside the Poké Balls. When I was young, I was a serious Pokémon trainer! In my old age, I have only 3 left, but you can have one! Choose!RB
+"Hmm? <rival>? Why are you here already? I said for you to come by later… Ah, whatever! Just wait there. Look, <player>! Do you see that ball on the table? It's called a Poké Ball. It holds a Pokémon inside. You may have it! Go on, take it!Y
+Be patient! <rival>, you can have one too!"RB
+Be patient, <rival>, I'll give you one later."Y
+Before choosing starter:
+"Now, <player>, which Pokémon do you want?"RB
+"Go ahead, it's yours!"Y
+If player tries to go away before choosing starter:
+"Hey! Don't go away yet!"
+When choosing PokémonRB:
+"So! You want the fire/water/plant Pokémon, Charmander/Squirtle/Bulbasaur?"
+After choosing starterRB:
+"This Pokémon is really energetic!"
+When rival snatches PokémonY:
+"<rival>! What are you doing?"
+"But, I… Oh, all right then. That Pokémon is yours. I was going to give you one anyway… <player>, come over here. <player>, this is the Pokémon I caught earlier. You can have it. I caught it in the wild and it's not tame yet."
+Before battling rival:
+"If a wild Pokémon appears, your Pokémon can fight against it!"
+"Afterward, go on to the next town."Y
+After battling rivalY:
+"What? Would you look at that! It's odd, but it appears that your Pikachu dislikes Poké Balls. You should just keep it with you. That should make it happy! You can talk to it and see how it feels about you.
+If talked to after battling rival:
+"<player>, raise your young Pokémon by making it fight!"RB
+"You should talk to it and see how it feels."Y
+After receiving Oak's Parcel:
+"Oh, <player>! How is my old Pokémon? Well, it seems to like you a lot. You must be talented as a Pokémon trainer! What? You have something for me? Ah! This is the custom Poké Ball I ordered! Thank you!"RB
+"Oh, <player>! How is my old Pokémon? Well, it seems to like you a lot. You must be talented as a Pokémon trainer! What? You have something for me? Ah! This is the custom Poké Ball I ordered! Thanks, <player>! By the way, I must ask you to do something for me."Y
+When rival joins player and Oak in the lab:
+"Oh, right! I have a request of you two. On the desk there is my invention, Pokédex! It automatically records data on Pokémon you've seen or caught! It's a hi-tech encyclopedia! <player> and <rival>! Take these with you!RB
+"Ah, <rival>, good timing! I needed to ask both of you to do something for me. On the desk there is my invention, Pokédex! It automatically records data on Pokémon you've seen or caught! It's a hi-tech encyclopedia! <player> and <rival>! Take these with you!Y
+After player and rival received the Pokedex:
+"To make a complete guide on all the Pokémon in the world… That was my dream! But, I'm too old! I can't do it! So, I want you two to fulfill my dream for me! Get moving, you two! This is a great undertaking in Pokémon history!"
+If talked to once again after rival leaves the lab:
+"Pokémon around the world wait for you, <player>!"
+If player defeated rival on Route 22 and hasn't bought Poké Balls or added caught data to Pokédex
+"You can't get detailed data on Pokémon by just seeing them. You must catch them! Use these to capture wild Pokémon."
+"When a wild Pokémon appears, it's fair game. Just throw a Poké Ball at it and tr to catch it! This won't always work, though. A healthy Pokémon could escape. You have to be lucky!"RB
+"When a wild Pokémon appears, it's fair game. Just like I showed you, throw a Poké Ball at it and tr to catch it! This won't always work, though. A healthy Pokémon could escape. You have to be lucky!"Y
+If talked to once again:
+"Come see me sometimes. I want to know how your Pokédex is coming along."
+Indigo Plateau
+
+After defeating rival:
+"<player>! So, you won! Congratulations! You're the new Pokémon League champion! You've grown up so much since you first left with <starter>! <player>, you have come of age! <rival>! I'm disappointed! I came when I heard you beat the Elite Four! But, when I got here, you had already lost! <rival>! Do you understand why you lost? You have forgotten to treat your Pokémon with trust and love! Without them, you will never become a champ again! <player>! You understand that your victory was not just your own doing! The bond you share with your Pokémon is marvelous! <player>! Come with me!"
+Hall of Fame
+
+Er-hem! Congratulations, <player>! This floor is the Pokémon Hall of Fame. Pokémon League champions are honored for their exploits here! Their Pokémon are also recorded in the Hall of Fame! <player>! You have endeavored hard to become the new League Champion. Congratulations, <player>, you and your Pokémon are Hall of Famers!
+When using item at the wrong time
+
+"<player>! This isn't the time to use that!"
+Pokédex evaluation
+When talking to Oak to get your Pokedex evaluated:
+"Good to see you! How is your Pokédex coming? Here, let me take a look!"
+Fewer than 10 Pokémon:
+"You still have lots to do. Look for Pokémon in grassy areas!"
+10-19 Pokémon:
+"You're on the right track! Get a Flash HM from my Aide!"
+20-29 Pokémon:
+"You still need more Pokémon! Try to catch other species!"
+30-39 Pokémon:
+"Good, you're trying hard! Get an Itemfinder from my Aide"
+40-49 Pokémon:
+"Looking good! Go find my Aide when you get 50!"
+50-59 Pokémon:
+"You finally got a least 50 species! Be sure to get Exp.All from my Aide!"
+60-69 Pokémon:
+"Ho! This is geting even better!"RB
+"Oh! This is getting even better!"Y
+70-79 Pokémon:
+"Very good! Go fish for some marine Pokémon!"
+80-89 Pokémon:
+"Wonderful! Do you like to collect things?"
+90-99 Pokémon:
+"I'm impressed! It must have been difficult to do!"
+100-109 Pokémon:
+"You finally got at least 100 species I can't believe how good you are!"
+110-119 Pokémon:
+"You even have the evolved forms of Pokémon! Super!"
+120-129 Pokémon:
+"Excellent! Trade with friends to get some more!"
+130-139 Pokémon:
+"Outstanding! You've become a real pro at this!"
+140-149 Pokémon:
+"I have nothing left to say! You're the authority now!"
+150-151 Pokémon:
+"Your Pokédex is entirely complete Congratulations!"RB
+"Your Pokédex is fully complete! Congratulations!"Y
+Gold, Silver and Crystal
+Intro
+
+"Hello! Sorry to keep you waiting! Welcome to the world of Pokémon! My name is Oak. People call me the Pokémon Prof. This world is inhabited by creatures that we call Pokémon. People and Pokémon live together by supporting each other. Some people play with Pokémon, some battle with them. But we don't know everything about Pokémon yet. There are still many mysteries to solve. That's why I study Pokémon every day. Now, what did you say your name was? <player>, are you ready? Your very own Pokémon story is about to unfold. You'll face fun times and tough challenges. A world of dreams and adventures with Pokémon awaits! Let's go! I'll be seeing you later!"
+Mr. Pokémon's house
+
+"Aha! So you're <player>! I'm Oak! A Pokémon researcher. I was just visiting my old friend Mr.Pokémon. I heard you were running an errand for Prof.Elm, so I waited here. Oh! What's this? A rare Pokémon! Let's see… Hm, I see! I understand why Prof.Elm gave you a Pokémon for this errand. To researchers like Prof.Elm and I, Pokémon are our friends. He saw that you would treat your Pokémon with love and care. …Ah! You seem to be dependable. How would you like to help me out? See? This is the latest version of Pokédex. It automatically records data on Pokémon you've seen or caught. It's a hi-tech encyclopedia! Go meet many kinds of Pokémon and complete that Pokédex! But I've stayed too long. I have to get to Goldenrod for my usual radio show. <player>, I'm counting on you!"
+Indigo Plateau
+
+"Ah, <player>! It's been a long while. You certainly look more matureGS/impressiveC. Your conquest of the League is just fantastic! Your dedication, trust and love for your Pokémon made this happen. Your Pokémon were outstanding too! Because they believed in you as a trainer, they persevered. Congratulations, <player>!"
+Oak's Lab
+
+"Ah, <player>! It's good of you to come all this way to Kanto. What do you think of the trainers out here? Pretty tough, huh?"
+Player has no Kanto Gym Badges
+"Hmm? You're not collecting Kanto Gym Badges? The Gym Leaders in Kanto are as tough as any you battled in Johto. I recommend that you challenge them."
+Player has at least one Kanto Gym Badge
+"Ah, you're collecting Kanto Gym Badges. I imagine it's hard, but the experience is sure to help you. Come see me when you get them all. I'll have a gift for you. Keep trying hard, <player>!"
+Player has all Kanto Gym Badges
+"Wow! That's excellent! You collected the Badges of Gyms in Kanto. Well done! I was right in my assessment of you. Tell you what, <player>. I'll make arrangements so that you can go to Mt. Silver. Mt. Silver is a big mountain that is home to many wild Pokémon. It's too dangerous for your average trainer, so it's off limits. But we can make an exception in your case, <player>. Go up to Indigo Plateau. You can reach Mt. Silver from there."
+How is your Pokédex coming? Let's see…
+Current Pokédex completion level:
+<Pokémon seen> Pokémon seen
+<Pokémon owned> Pokémon owned
+Prof.Oak's Rating: <pokédex evaluation text> If you're in the area, I hope you come visit again.
+
+When using item at the wrong time
+
+"<player>! This isn't the time to use that!"
+Pokédex evaluation
+Note: Mew and Celebi count towards the evaluation.
+
+Fewer than 10 Pokémon:
+"Look for Pokémon in grassy areas!"
+10-19 Pokémon:
+"Good. I see you understand how to use Poké Balls."
+20-34 Pokémon:
+"You're getting good at this. But you have a long way to go."
+35-49 Pokémon:
+"You need to fill up the Pokédex. Catch different kinds of Pokémon!"
+50-64 Pokémon:
+"You're trying--I can see that. Your Pokédex is coming together."
+65-80 Pokémon:
+"To evolve, some Pokémon grow, others use the effects of Stones."
+80-94 Pokémon:
+"Have you gotten a fishing Rod? You can catch Pokémon by fishing."
+95-109 Pokémon:
+"Excellent! You seem to like collecting things!"
+110-124 Pokémon:
+"Some Pokémon only appear during certain times of the day."
+125-139 Pokémon:
+"Your Pokédex is filling up. Keep up the good work!"
+140-154 Pokémon:
+"I'm impressed. You're evolving Pokémon, not just catching them."
+155-169 Pokémon:
+"Have you met Kurt? His custom Poké Balls should help."
+170-184 Pokémon:
+"Wow. You've found more Pokémon than the last Pokédex research project."
+185-199 Pokémon:
+"Are you trading your Pokémon? It's tough to do this alone!"
+200-214 Pokémon:
+"Wow! You've hit 200! Your Pokédex is looking great!"
+215-229 Pokémon:
+"You've found so many Pokémon! You've really helped my studies!"
+230-244 Pokémon:
+"Magnificent! You could become a Pokémon professor right now!"
+245-249 Pokémon:
+"Your Pokédex is amazing! You're ready to turn professional!"
+250-251 Pokémon:
+"Whoa! A perfect Pokédex! I've dreamt about this! Congratulations!"
+FireRed and LeafGreen
+Intro
+
+"Hello, there! Glad to meet you! Welcome to the world of Pokémon! My name is Oak. People affectionately refer to me as the Pokémon Professor. This world… …is inhabited far and wide by creatures called Pokémon! For some people, Pokémon are pets. Other use them for battling. As for myself… I study Pokémon as a profession. But first, tell me a little about yourself. Now tell me. Are you a boy? Or are you a girl? Let's begin with your name. What is it? Right… So your name is <player>. This is my grandson. He's been your rival since you both were babies. …Erm, what was his name now? …Er, was it <rival>? That's right! I remember now! His name is <rival>! <player>! Your own very Pokémon legend is about to unfold! A world of dreams and adventures with Pokémon awaits! Let's go!"
+Pallet Town
+
+While trying to get into tall grass:
+"Hey! Wait! Don't go out! It's unsafe! Wild Pokémon live in tall grass! You need your own Pokémon for your protection. I know! Here, come with me!"
+After resuming game after beating rival before receiving National Pokédex, if the Sevii sidequest is not done:
+"Ah, <player>! You seem to be enjoying traveling. Knowing you, <player>, I can easily imagine you going out to even more exotic locales. Good for you, good for you. Hohoho."
+After resuming game after beating rival before receiving National Pokédex, if the Sevii sidequest is done with fewer than 60 Pokémon owned:
+"Ah, <player>! You're back, are you? How much have you filled in your Pokédex? May I see it? Let's see… You've caught <number of owned Pokémon>… Hm, it looks as if you're putting in an honest effort. When you manage to fill it some more, come show me, please."
+After resuming game after beating rival before receiving National Pokédex, if the Sevii sidequest is done with 60 or more Pokémon owned:
+"Ah, <player>! You're back, are you? How much have you filled in your Pokédex? May I see it? Let's see… You've caught… <number of owned Pokémon>!? Now, this is impressive! There's something I wanted to ask of you, <player>. Come. Follow me.
+Oak's Lab
+
+Battle
+"Oh, for Pete's sake… So pushy, as always. <player>. You've never had a Pokémon battle before, have you? A Pokémon battle is when Trainers pit their Pokémon against each other. The Trainer that makes the other Trainer's Pokémon faint by lowering their HP to ‌“0,” wins. But rather than talking about it, you'll learn more from experience. Try battling and see for yourself."
+Damaging move used for first time:
+"Inflicting damage on the foe is the key to any battle."
+Stat-lowering move used for the first time:
+"Lowering the foe's stats will put you at an advantage."
+Party screen is shown for first time (via either Pokémon button or using Potion):
+"It's important to get know your Pokémon thoroughly. This is a list of your Pokémon, <player>. Open this to check the skills and moves of your Pokémon. You also choose Pokémon here if you want to use an item on one."
+Pokémon is healed via Potion:
+"Keep your eyes on your Pokémon's HP. It will faint if the HP drops to “0.”
+If player tries to run:
+"No! There's no running away from a Trainer Pokémon battle!"
+Battle is won:
+"Hm! Excellent! If you win, you earn prize money, and your Pokémon will grow! Battle other Trainers and make your Pokémon strong!"
+Battle is lost:
+"Hm! How disappointing… If you win, you earn prize money, and your Pokémon will grow. But if you lose, <player>, you end up paying prize money… However, since you had no warning this time, I'll pay for you. But things won't be this way once you step outside these doors. That's why you must strengthen your Pokémon by battling wild Pokémon. "
+Overworld
+After getting dragged into lab:
+"<rival>? Let me think… Oh, that's right, I told you to come! Just wait! Here, <player>! There are three Pokémon here. Haha! The Pokémon are held inside these Poké Balls. When I was young, I was a serious Pokémon Trainer. But now, in my old age, I have only these three left. You can have one. Go on, choose!
+Be patient! <rival>. You can have one, too!"
+Before choosing starter:
+"Now, <player>. Inside those three Poké Balls are Pokémon. Which one will you choose for yourself?"
+If player tries to go away before choosing starter:
+"Hey! Don't go away yet!"
+When choosing Bulbasaur:
+"I see! Bulbasaur is your choice. It's very easy to raise. So, <player>, you want to go with the Grass Pokémon Bulbasaur?
+When choosing Squirtle:
+"Hm! Squirtle is your choice. It's one worth raising. So, <player>, you've decided on the Water Pokémon Squirtle?
+When choosing Charmander:
+"Ah! Charmander is your choice. You should raise it patiently. So, <player>, you're claiming the Fire Pokémon Charmander?
+After choosing starter:
+"This Pokémon is really quite energetic!"
+Before battling rival:
+"If a wild Pokémon appears, your Pokémon can battle it. With it at your side, you should be able to reach the next town."
+If talked to after battling rival:
+"<player>, raise your young Pokémon by making it battle. It has to battle for it to grow."
+After receiving Oak's Parcel:
+"Oh, <player>! How is my old Pokémon? Well, it seems to be growing more attached to you. You must be talented as a Pokémon Trainer. What's that? You have something for me? Ah! It's the custom Poké Ball! I had it on order. Thank you!
+"Oh, right! I have a request for you two. On the desk there is my invention, the Pokédex! It automatically records data on Pokémon you've seen or caught. It's a high-tech encyclopedia! <player> and <rival>. Take these with you. You can't get detailed data on Pokémon by just seeing them. You must catch them to obtain complete data. So, here are some tools for catching wild Pokémon. When a wild Pokémon appears, it's fair game. Just throw a Poké Ball at it and try to catch it! This won't always work, however. A healthy Pokémon can escape. You have to be lucky! To make a complete guide on all the Pokémon in the world… That was my dream! But, I'm too old! I can't get the job done. So, I want you two to fulfill my dream for me. Get moving, you two. This is a great undertaking in Pokémon history!
+When receiving National Pokédex:
+"Ah, now this is excellent! <player>, I have another important favor to ask of you. I need you to listen closely. Recently there have been sightings of many rare Pokémon species. I'm talking about Pokémon that have never been seen in Kanto. I would love to go see things for myself, but I'm much too old. Since I can't do it, <player>, I'd like you to go in my place.
+"I know, I know. Of course I need your help, too. Now, I need to see both your Pokédexes. … … … … … … … … … … … … …And that's done! Now these units can record data on a lot more Pokémon. Now, <player> and <rival>! This time, you must really must work towards filling your Pokédexes. I urge you to make them the best and the most complete of all time! Truly, this is a monumentally great undertaking in Pokémon history!
+If talked again before leaving after getting National Pokédex:
+"Pokémon around the world wait for you, <player>!
+If talked again before leaving after completing National Pokédex:
+"Thank you, <player>! Sincerely, thank you! You've made my dream a reality!"
+Indigo Plateau
+
+After beating rival:
+"<player>! So, you've won! Sincerely, congratulations! You're the new Pokémon League Champion! You've grown up so much since you first left with <starter> to work on the Pokédex. <player>, you have come of age! <rival>… I'm disappointed in you. I came when I heard you'd beaten the Elite Four. But, when I got here, you had already lost! <rival>, do you understand why you lost? You have forgotten to treat your Pokémon with love and trust. Without them, you will never become a Champ again! <player>. You understand that your victory was not just your own doing. The bond you share with your Pokémon is marvelous. <player>! Come with me!"
+Hall of Fame
+
+Er-hem! Congratulations, <player>! This floor is the Pokémon Hall of Fame. Pokémon League Champions are honored for their exploits here. Their Pokémon are also recorded in the Hall of Fame. <player>! You have worked hard to become the new League Champion. Congratulations, <player>, you and your Pokémon are Hall of Famers!
+Pokédex evaluation
+Pokédex evaluation
+"Good to see you! How is your Pokédex coming along? Here, let me take a look. Let's see… The amount of progress you've made on your Pokédex is: <number> Pokémon seen and <number> Pokémon owned. Prof. Oak's rating: <Pokédex evaluation quote> And your National Pokédex is: <number> Pokémon seen and <number> Pokémon owned. <National Pokédex evaluation quote>"
+Pokédex evaluation (After showing Oak complete National Pokédex)
+"Ah, welcome! Tell me, how is your Pokédex coming along? Wahaha! Actually, I know how it is, but I love seeing it anyway! Let's see… The amount of progress you've made on your Pokédex is: <number> Pokémon seen and <number> Pokémon owned. Prof. Oak's rating: <Pokédex evaluation quote> And your National Pokédex is: <number> Pokémon seen and <number> Pokémon owned. <National Pokédex evaluation quote>"
+Fewer than 10 Pokémon owned
+"You still have lots to do. Go into every patch of grass you see and look for Pokémon!"
+10-19 Pokémon
+"It looks as if you're getting on the right track! I've given one of my Aides a Flash HM. Make sure you go get it!"
+20-29 Pokémon
+"Your Pokédex could use a bit more volume still! Try to catch other species of Pokémon!"
+30-39 Pokémon
+"Good, it's apparent that you're trying hard! I've given one of my Aides an Itemfinder. Be sure to collect it!"
+40-49 Pokémon
+"Your Pokédex is coming along quite well! I've given one of my Aides an Amulet Coin. Be sure to get it!"
+50-59 Pokémon
+"Ah, you've finally topped 50 species! I've given one of my Aides an Exp. Share. Be sure to go get it!"
+60-69 Pokémon
+"Hoho! This is turning into quite the respectable Pokédex!"
+70-79 Pokémon
+"Very good! I think you'll collect even more Pokémon by going fishing!"
+80-89 Pokémon
+"Wonderful! Let me guess... You like to collect things, don't you?"
+90-99 Pokémon
+"I'm impressed! That must have been difficult to do!"
+100-109 Pokémon
+"You've finally hit 100 species! I can't believe how good you are!"
+110-119 Pokémon
+"You even have the evolved forms of Pokémon! Super!"
+120-129 Pokémon
+"Excellent! Trade with friends to get some more!"
+130-139 Pokémon
+"Outstanding! You've become a real pro at this!"
+140-150 Pokémon (at least one Pokémon other than Mew missing)
+"I have nothing left to say! You're the Pokémon Professor now!"
+150-151 Pokémon (all non-event Pokémon caught)
+"Your Pokédex is entirely complete! Congratulations!!"
+National Pokédex, not complete:
+"I'll be looking forward to seeing you fill the National Pokédex!"
+National Pokédex, complete:
+"Finally… You've finally completed the Pokédex! It's magnificent! Truly, this is a fantastic feat! Wroooooooaaaaaarrrr! Thank you, <player>! Sincerely, thank you! You've made my dream a reality!"
+Diamond, Pearl and Platinum
+Please feel free to edit this section to add missing information and complete it.
+Reason: Quotes from Rowan's Lab and the Oak's Letter event
+Pal Park
+
+After entering Pal Park:
+"Ah, <player>! This is it! This is Pal Park! Pokémon from around the country can be brought here. In other words, Pokémon from places like Kanto and Hoenn. This place also happens to be where you compete to see how quickly you can catch those Pokémon!"
+"It's good to see you've come to join us for a visit. Let me make a gift of this Trainer Counter app for your Pokétch."
+After obtaining the Trainer Counter:
+"I plan to be in Eterna City for some time. Being here, I should make the best of my time studying the Pokémon of the Sinnoh region."
+Eterna City
+
+First visit:
+"Ah, it's you!" Good to see you! How is your Pokédex coming along? Capturing every kind of Pokémon is no easy feat, I'll grant you that. But I'm sure you can accomplish it!"
+"Ah, yes! An acquaintance from Kanto has sent me something quite interesting. I think you'd make better use of it than I ever could."
+After obtaining Up-Grade:
+"I understand there is a Pokémon that evolves when it is traded while holding that Up-Grade. Incidentally, and this is an entirely different topic... I've heard that there have been sightings of very rare Pokémon. The legendary bird Pokémon: ARTICUNO, ZAPDOS, and MOLTRES! They've been spotted at various locations here in Sinnoh, no less! Why, you may be lucky enough to see them yourself in your journeys!"
+Repeated visits:
+"ARTICUNO, ZAPDOS, and MOLTRES are extremely rare even in Kanto. There have been precious few sightings as it is. So why would they be spotted here in Sinnoh of all places? There are still many, many mysteries surrounding Pokémon, it seems!"
+Pokédex evaluation
+Note: Oak evaluates only the National Pokédex.
+"Hmhm... You've caught <number> so far... <evaluation quote>"
+Fewer than 40 Pokémon
+"They say there are at least 400 species of Pokémon nationwide. If you're planning to catch them all, you'd better be a committed Trainer."
+40-59 Pokémon
+"Hm! Little by little, you're filling the Pokédex with complete data on Pokémon you've gotten. Keep up the good work!"
+60-89 Pokémon
+"Here's a tip on catching Pokémon in the wild. Minimize their HP before you throw your Poké Ball to catch 'em."DP
+"Here's a tip on catching Pokémon in the wild. Minimize their HP before you throw your Poké Ball to catch them."Pt
+90-119 Pokémon
+"Remember: If you can't catch them, you can always trade for them. As soon as you trade, the Pokémon's data is added to the Pokédex. That's why you should seek out as many trades as possible."
+120-149 Pokémon
+"Have you visited the Great Marsh? Some Pokémon only appear in places such as that."
+150-189 Pokémon
+"As you know, there are Pokémon that eventually evolve. That's an important thing to consider when you're filling your Pokédex."
+190-229 Pokémon
+"You've proven yourself capable. There's nothing to worry about. Keep catching Pokémon the way you've been doing so far."
+230-269 Pokémon
+"Are you aware that there is more than one style of evolution? There are some Pokémon that evolve by becoming friends with the Trainer."
+270-309 Pokémon
+"Apparently, there are some Pokémon that appear in swarms on occasion. Don't miss out on these massive outbreaks of Pokémon!"
+310-349 Pokémon
+"Amazing! You've already gotten over 300 Pokémon! That's already a major achievement, but I know you're capable of more!"
+350-379 Pokémon
+"Some wild Pokémon only appear during certain times of the day. You'll need to look for Pokémon around the clock."
+380-409 Pokémon
+"I've been getting reports of different Pokémon sightings. By different, I mean Pokémon that aren't native to the Sinnoh region. You should perhaps go back to areas you've already scoured. You may end up seeing Pokémon that weren't there before."
+410-429 Pokémon
+"<player>, have you visited the Pal Park recently? There still may be Pokémon that are rarely seen in Sinnoh."
+430-449 Pokémon
+"Hm! Your Pokédex is getting closer to completion. Have you ever considered a career as a Pokémon professor?"
+450-459 Pokémon
+"Hmm... You've caught quite the impressive collection of Pokémon. You've obviously had to employ many means to seek them all out. Keep an eye out for rustling tall grass and search it thoroughly."DP
+"Hmm... You've caught quite the impressive collection of Pokémon. You've obviously had to employ many means to seek them all out."Pt
+460-469 Pokémon
+"I can only marvel at the diversity of Pokémon. I'm still very much in awe of them."
+470-475 Pokémon
+"Good, good, you're getting close to completing the Pokédex. I'm looking forward to seeing its completion. When that happens, your views about Pokémon will likely have changed!"
+476-492 Pokémon (missing a non-event Pokémon*)
+"Hmm... You are so very close to completing your Pokédex. Think about what's missing. Recall what you've overlooked. You're so close--please finish the Pokédex!"
+482-493 Pokémon (all non-event Pokémon)
+"<player>! You've finally done it! You've finally completed the National Pokédex! This is better than meeting any exotic Pokémon for the first time! I feel blessed to have become friends with a Trainer like you! Sincerely, I thank you from the bottom of my heart!"
+HeartGold and SoulSilver
+Please feel free to edit this section to add missing information and complete it.
+Reason: All of his other quotes throughout the game.
+Intro
+
+If time is from 0:00AM to 3:59AM
+"...... Yaaaaaaawn... ... Huh? A guest? At this hour?"
+If time is from 4:00AM to 10:59AM
+"...... Yaaaaaaawn... ... Huh? It's already become so bright outside!"
+If time is from 11:00AM to 3:59PM
+"...... Yaaaaawn... ... Huh? What?! Is it already that late!? Oh no! I overslept!"
+If time is from 4:00PM to 6:59PM
+"...... Hmm. Looks like the sun is descending in the sky... ...So this would be what is called "twilight," wouldn't be it?"
+If time is from 7:00PM to 11:59PM
+"...... Hmm... Interesting... ... Huh? Oh! Excuse me, sorry! I was just reading this book here."
+The rest is as follows
+
+"Sorry to keep you waiting! Welcome to the world of Pokémon! My name is Professor Oak. But everyone calls me the Pokémon Professor. Before we go any further, I'd like to tell you a few things you should know about this world! This world is widely inhabited by creatures known as Pokémon. We humans live alongside Pokémon as friends. At times we play together, and at other times we work together. Some people use their Pokémon to battle and develop closer bonds with them. Now, why don't you tell me a little bit about yourself? Are you a boy? Or are you a girl? Won't you please tell me?"
+"So, you're a boy/girl then?"
+"Please tell me your name."
+"Your name is <name>?"
+"<Player>! Are you ready? Your very own tale of grand adventure is about to unfold. Fun experiences, difficult experiences, there's so much waiting for you! Dreams! Adventure! Let's go to the world of Pokémon! I'll see you later!"
+Mr. Pokémon's house
+
+"And with that... I'm Professor Oak, a Pokémon researcher! So you're <player>! I was just visiting my friend Mr. Pokémon. I heard you were running an errand for Professor Elm, so I waited here. Oh! What's this? A rare Pokémon! I see! You must be helping Professor Elm's research! I think I understand why Professor Elm gave you that Pokémon. You will treat your Pokémon with love and care, it seems. ...Ah! You seem to be dependable. How would you like to help me out? See? This is the latest version of the Pokédex. It automatically records data on Pokémon you've seen or caught. It's a high-tech encyclopedia! I'd like you to have it. Go meet many kinds of Pokémon and complete that Pokédex! But I've stayed too long. I have to get to Goldenrod for my usual radio show. <player>, I have a feeling that is not the last time we'll meet... Let's exchange numbers just to be on the safe side."
+Pallet Town
+
+Choosing Kanto Starter
+If spoken to again after having been offered a Kanto starter, but before choosing one
+"You don't see them very often in Kanto. Choose one and it'll be yours! ...Go ahead!"
+When checking the Charmander Poké Ball
+"So, you're claiming the Fire Pokémon Charmander?"
+When checking the Squirtle Poké Ball
+"So, you've decided on the Water Pokémon Squirtle?"
+When checking the Bulbasaur Poké Ball
+"So, you want to go with the Grass Pokémon Bulbasaur?"
+When declining any starter
+"No need to hurry. Take your time."
+Upon choosing starter
+"This Pokémon is really energetic!"
+After starter has been added to party
+"If a wild Pokémon appears, your Pokémon can battle it. With it at your side, you should be able to reach the next town... What am I saying? You already know all this! Hahaha!"
+Embedded Tower Legendaries
+If spoken to while KyogreHG/GroudonSS is in the player's party
+Oh, <player>! What brought you here?
+The legendary Pokémon that appear in the Hoenn myth?
+You must be talking about Kyogre and Groudon!
+The Embedded Tower is probably the ruins that has something to do with the Hoenn myth. If so, the other one must be around.
+Kyogre and Groudon are said to have shaped the seas and lands!
+Where those two are, the other Pokémon is said to appear as well... All this is quite possible!
+It's not hard to imagine that the Red OrbHG/Blue OrbSS will make GroudonHG/KyogreSS appear at the Embedded Tower...
+However, according to Mr. Pokémon, GroudonHG/KyogreSS does not show itself to Trainers with golden heartsHG/shining-silver spiritsSS, but only to those with shining-silver spiritsHG/golden heartsSS.
+It may be difficult for you alone to accomplish this, <player>.
+But if you manage to obtain a GroudonHG/KyogreSS that came from the Embedded Tower, please do come and show me both legendary Pokémon!
+I will then share with you the rest of the Hoenn myth!
+If spoken to while both Groudon and Kyogre from the Embedded Tower are in the player's party
+You did it, <player>! You caught both Kyogre and Groudon! OK! I would like to entrust this to you!
+It resembles the Orb you received from Mr. Pokémon, doesn't it?'
+It is called the Jade Orb. It has something to do with Rayquaza.
+Legend has it that the battle between Groudon and Kyogre shaped the lands and seas of Hoenn.
+Volcanic eruptions and giant waves are said to have completely changed the shape of the land there.
+But then Rayquaza came down to halt the battle.
+It is a Pokémon that rules the skies!
+If the Embedded Tower is related to Kyogre and Groudon, then going there with that Jade Orb will surely make something happen.
+If spoken to while Rayquaza is in the player's party
+You have successfully caught Rayquaza!
+The strong power of the Jade Orb must have attracted Rayquaza there!
+Pokémon are sometimes greatly attracted by certain Orbs and Stones. No one knows why.
+Perhaps memories from ancient times... when this planet was born... and Pokémon, also... are making Pokémon behave that way.
+Indigo Plateau
+
+After beating Lance
+"Ah, <player>! It's been a long while. You certainly look more impressive. Your conquest of the League is just fantastic! Your dedication, love, and trust for your Pokémon made this happen. Your Pokémon were outstanding, too. Because they believed in you as a Trainer, you persevered. Congratulations, <player>!"
+Professor Oak's Laboratory
+
+Upon first meeting
+"Ah, <player>! It's good of you to come all this way to Kanto. What do you think of the Trainers out here? Pretty tough, huh?"
+If the player has obtained no Kanto Gym Badges
+"Hmm? You're not collecting Kanto Gym Badges? The Gym Leaders in Kanto are as tough as any you battled in Johto. I recommend that you challenge them. So, how's your Pokédex coming along?"
+If the player has started to collect Kanto Gym Badges
+"Ah, you're collecting Kanto Gym Badges. I imagine that it's hard, but the experience will surely help you. Come see me when you get them all. I'll have a gift for you. Keep it up, <player>! So how's your Pokédex coming along?"
+Via Pokégear while inside Professor Oak's Laboratory
+"Hello, this is Professor Oak... Hmm... It's strange. I know your voice, <player>, but somehow hearing it over the phone makes it sound so different."
+Pokédex evaluation
+Via Pokégear
+"Hello, this is Professor Oak... Oh, hello, <player>! So, how's your Pokédex coming along?"
+Quit
+"Show me your Pokédex again anytime!"
+Evaluate
+"Hmm, let's see... You've seen <number> Pokémon, and you've caught <number> Pokémon! I see! <evaluation quote> Show me your Pokédex again anytime!"
+Johto Pokédex
+
+0-9
+"Look for Pokémon in grassy areas!"
+10-19
+"Good. I see you understand how to use Poké Balls."
+20-34
+"You're getting good at this. But you have a long way to go."
+35-49
+"Hmm, you're catching Pokémon at a decent pace!"
+50-64
+"You're trying--I can see that. Your Pokédex is coming together."
+65-79
+"You're training them well. You know some Pokémon don't evolve just by battling with others, right?"
+80-94
+"Do you have a Fishing Rod? There are some Pokémon that can only be found by fishing!"
+95-109
+"Excellent! You seem to be good at collecting things!"
+110-124
+"Some Pokémon only appear during certain times of the day."
+125-139
+"Your Pokédex is really filling up. Keep up the good work!"
+140-154
+"I'm impressed. You're evolving Pokémon, not just catching them."
+155-169
+"If you can learn how to use the custom Poké Balls made by Kurt effectively, you'll be able to catch Pokémon better!"
+170-184
+"When you trade Pokémon, you can also trade information. Your friends can really help you!"
+185-199
+"Are you trading your Pokémon? It's tough to do this alone!"
+200-214
+"Wow! You've reached 200! Your Pokédex is looking great!"
+215-229
+"You've found so many Pokémon! You've really helped my studies!"
+230-244
+"Magnificent! You have the ability to become a great Pokémon Professor someday!"
+245-255 (at least one non-event Pokémon missing)
+"Your Pokédex is amazing! You're ready to turn professional!"
+Johto Pokedex is complete (254-256; all non-event Pokémon caught)
+Wow!
+That is a complete Johto Pokédex!
+Thanks to you, <player>, the Johto Pokédex is complete!
+Wow…
+You've done an incredible job!
+If Johto Pokédex is already complete (pre-National)*
+"Really, you've surprised me! But just as I expected, you've completed the Johto Pokédex. I am so grateful! If you've got much determination, then even more exciting adventures await you in the world of Pokémon!"
+National Pokédex
+
+0-100
+"The goal may be far away, but don't give up yet! Keep going!"
+101-150
+"Don't forget, some Pokémon only appear at certain times of the day!"
+151-200
+"If you break rocks, some Pokémon that were hiding there might come jumping out!"
+201-250
+"That's wonderful you've been able to gather this many Pokémon! The path ahead is long. Keep up the great work!"
+251-300
+"If you Headbutt a tree, sometimes a Pokémon might fall out!"
+301-350
+"A lot of Pokémon not found in the Johto region like to congregate at the Safari Zone."
+351-400
+"Music on the radio might also entice Pokémon to leap out!"
+401-435
+"Wow, you've gotten so far...! I'm actually a little surprised!"
+436-465
+"This is a critical moment! You can't become discouraged!"
+466-475
+"Just a little more! I've got high expectations for you!"
+476-492 (at least one non-event Pokémon is missing*)
+"I have never before in all my years seen such an incredible Trainer!"
+National Pokédex complete (484-493; all non-event Pokémon caught)
+Excellent!
+That is an amazing National Pokédex!
+Wow…
+You've lived up to my expectations wonderfully!
+No, you've exceeded them, <player>. You've become an amazing Trainer!
+Thank you, <player>!
+After completing both the Johto and National Pokédex*
+You have truly surprised me!
+You've more than exceeded my expectations. You've gone far past them in completing the National Pokédex!
+I'm speechless…!
+Because of this, the world of Pokémon and Trainers is more vast, deeper, and more abundant!
+Now there will be no end to Pokémon research!
+In the side series
+Pokémon Stadium
+Oak's Lab
+PC
+"This is a sophisticated PC. You can study Pokémon on it, organize your items and so on."
+Pokémon Stadium 2
+Oak's Laboratory
+PC
+"This is a machine for organizing Pokémon and items. The highlighted parts show new Pokémon and new moves.
+In the spin-off games
+Pokémon Snap
+Please feel free to edit this section to add missing information and complete it.
+Inputting name
+"Write your name here and don't lose it! Prof. Oak"
+Hey You, Pikachu!
+Please feel free to edit this section to add missing information and complete it.
+Viridian Forest Edge
+"Thanks for coming. This is the Viridian Forest Edge, where wild Pokémon come to play. Right now, I'd like to test you to see if you can learn to use the PokéHelper. The test is simple. Just speak to that PIKACHU so it listens to you. Now then, face PIKACHU and speak to it while holding the Z button. I hope it goes well for you!"
+When the player talks to Pikachu:
+"PIKACHU heard you! The PokéHelper reads your feelings and conveys them to Pokémon. Speak to PIKACHU once more!"
+When the player talks to Pikachu again:
+"PIKACHU thought it heard something. Keep talking to it until it notices you!"
+When the player talks to Pikachu again:
+"It looks like PIKACHU still hasn't figured out where your voice is coming from. Well, keep talking to it until it comes up to you!"
+When the player talks to Pikachu again:
+"You passed the test! Amazing! Even a wild Pokémon can tell that you're good-hearted! I knew that you could pass my test. I'll let you use that PokéHelper from now on."
+When Pikachu leaves:
+"Even though you connected with PIKACHU, it's taking off. Maybe you should go home for the day, too. I'll teach you some things tomorrow."
+The Bedroom
+(Speaking at the television.) "Good morning. Were you too excited to sleep last night? Ha, ha...I thought so. Well, the PIKACHU from yesterday is in Viridian Forest. I'll show you the way again. I hope you can become even better friends with PIKACHU."
+Entrance to Viridian Forest
+"The PIKACHU from yesterday is sleeping. Call it to wake it. Say PIKACHU as you hold the Z Button."
+(Pikachu wakes up.)
+"Look! Signs appeared on the left and right sides of the screen. That means PIKACHU wants to talk to you! Now greet PIKACHU!"
+(Pikachu holds a beach ball.)
+"What on earth did PIKACHU pick up? See that <hand sign> beside the thing it is holding? When you press the B Button, the PokéHelper will describe the item that the <hand sign> is pointing to. SOme of my advice is also listed, so it should be pretty helpful. Now press the B Button and read the description."
+"I guess it's a beach ball. I think 'throw it' was written in red letters in the description. The PokéHelper uses red to show the words that PIKACHU understands. Now try saying 'throw it'."
+When the player says "throw it":
+"Oh my! Somehow PIKACHU thought it was told do drop it."
+(Pikachu looks up.)
+"PIKACHU is looking up at something. I wonder if it sees something? Try calling to PIKACHU."
+When the player calls Pikachu:
+"PIKACHU is more interested in the sky than your voice. Try calling it again."
+When the player calls Pikachu again:
+"The signs appeared on the left and right sides of the screen. It looks like PIKACHU wants to talk to you. Now then, try asking it 'what's up there?'."
+When the player asks "What's up there?":
+"Oh, is that what is was? You know what it meant, right?"
+(Pikachu holds an apple.)
+"What's this? PIKACHU wants you to guess the name of the item it's holding. Maybe you should check the description in the PokéHelper."
+When the player says "apple":
+(Pikachu eats the apple.)
+"PIKACHU seems to be very happy."
+"Oh, too bad. It's about time to head home."
+Pokémon Puzzle Challenge
+Please feel free to edit this section to add missing information and complete it.
+Main Menu
+1 Player
+"Play by yourself"
+2 Players
+"Play with a friend"
+Training
+"Study play techniques"
+Controls
+"View controls"
+Records
+"Check game records"
+Options
+"Set game options"
+"See the manual for details"
+1 Player Menu
+Marathon
+"Play until your stack hits the top. Try to earn all the endings."
+Challenge
+"Battle Gym Leaders. Use combos and chains to attack opponents. !-Blocks help, too. See the manual for help. One more thing! !-Block combos power up attacks!"
+Time Zone
+"Try to get a high score in a limited amount of time. Get chains and combos for max points!"
+LineClear
+"Clear all stages. There are 6 rounds, each with 5 stages. After beating all 30 stages, a battle awaits. Win the final match and you're done! "
+Puzzle
+"Clear the puzzles in the number of moves shown. There are 6 rounds with 10 puzzles each. It's easy at first. If 60 isn't enough... there may be more... Finally, a hint... Press SELECT if you're stuck... I'll teach you the first move."
+Garbage!
+"Clear the garbage as it falls. Play until your stack hits the top. How long can you last? The ending you see depends on your score."
+Puzzle Menu
+Save file
+"Pick a file!"
+Erase
+"Erase a file."
+After selecting Erase
+"Pick a file to erase!"
+Puzzle Mode
+Upon starting Puzzle Mode
+"Hi there! I'm Prof. Oak. Clear the blocks in the moves shown to clear the puzzle. Press the B Button to undo your last move if you make a mistake. Press SELECT on this screen to get hints from me. Good luck!"
+If left idle
+"Pick any stage."
+Game Hint! (Round 1)
+"Press START to return to this screen. Try it out."
+After clearing 8 Round 1 stages
+"Nice work! You cleared 8 stages! Now you can go on to the next round. Use the cursor to select a stage!"
+Game Hint! (Round 2)
+"You can play any stage in a round. When you can't solve a puzzle, pick a different stage. Clear at least 8 stages to go to the next round. Good luck!"
+After clearing a 8 Round 2 stages
+"You solved 8 stages! They just get harder from now on... Good luck!"
+Training Menu
+Training
+"Practice in slow motion motion. Blocks move slowly, so it's easier to form Active Chains. Study Active chains in Demo Play."
+Demos
+"Study the techniques used in the game. Learn all the ways to clear blocks. Study hard!"
+Practice in Slow-Mo!
+Upon starting
+"Active Chains are the best part of Puzzle Challenge. Practice them in this Slow-Mo Mode. You're done when you reach 9999 pts. Good luck!"
+Upon a Game Over after getting 9999 points
+"You did it!!! Now try to clear the harder levels. You can handle it. I know you can do it!"
+Records
+Before entering name
+"I need your name to save your data."
+Pokémon Puzzle League
+Please feel free to edit this section to add missing information and complete it.
+Opening cinematic (voice clips)
+"Hello, Ash! I have an important message for you. They're starting an official Puzzle League Tournament and you are selected as one of the challengers."
+"I'm so proud of you, Ash. Being selected for this event is such an honor. Well, there's no time to explain everything, you must hurry."
+"Wait! Don't forget to come and see me in my office in Puzzle League Village!"
+"Did you hear me, Ash?!"
+Prof. Oak's Labs
+Upon entering (voice clips)
+"Welcome! It's so good to see you. Here's how to play!"
+BASIC 1
+"PLEASURE TO MEET YOU! WELCOME TO MY LAB. I AM PROFESSOR OAK. ALLOW ME TO TEACH YOU THE BASICS OF POKÉMON PUZZLE LEAGUE. LET'S BEGIN!"
+"FIRST, THE CURSOR MOVES AROUND THE PLAYFIELD BY USING THE + CONTROL PAD. BLOCKS ARE SWITCHED BY PUSHING EITHER THE A BUTTON OR B BUTTON. THAT'S ALL THERE IS TO SWITCHING BLOCKS! SIMPLE, EH?"
+"SWITCHING A BLOCK WITH AN EMPTY SPACE CAN CAUSE HIGHER BLOCKS TO DROP. BLOCKS ARE CLEARED BY PUTTING THREE OF THE SAME COLOR, EITHER HORIZONTALLY OR VERTICALLY. WATCH AS I CONTINUE CLEARING BLOCKS FROM THE PLAYFIELD. OK, HERE I GO."
+"THE PLAYFIELD IS NEARLY CLEAR!"
+"THE ENTIRE STACK CAN BE RAISED BY PUSHING EITHER THE L BUTTON OR R BUTTON. DON'T RAISE IT TOO HIGH! ONCE THE BLOCKS REACH THE CEILING, THE GAME IS OVER."
+"NOW THAT YOU KNOW THE BASICS, WE CAN LEARN MORE ADVANCED TECHNIQUES-COMBOS AND CHAINS! BECAUSE OF THEIR DIFFICULTY, COMBOS AND CHAINS WILL SCORE YOU HIGHER POINTS. TO SCORE A COMBO, CLEAR MORE THAN 3 BLOCKS AT ONCE. LET'S GIVE IT A TRY!"
+"A 4-BLOCK COMBO!"
+"A 5-BLOCK COMBO!"
+"A 6-BLOCK COMBO!"
+"FANTASTIC! A 10-BLOCK COMBO!"
+"NEXT, I WILL MAKE A CHAIN. A CHAIN IS CREATED WHEN YOU CLEAR MULTIPLE GROUPS OF 3 OR MORE BLOCKS, ONE GROUP RIGHT AFTER THE OTHER. OBSERVE..."
+"THIS IS AN EXAMPLE OF A 2-CHAIN."
+"AND NOW, A DIFFICULT 3-CHAIN! YOU GAIN A GREAT DEAL OF POINTS CREATING LONG CHAINS LIKE THIS."
+"WELL, I THINK THAT'S ENOUGH TEACHING FOR TODAY. NEXT TIME, I WILL TEACH YOU MORE GAMEPLAY TECHNIQUES. FAREWELL FOR NOW!"
+BASIC 2
+"WELCOME TO MY LAB! ARE YOU READY TO LEARN SOME MORE GAMEPLAY TECHNIQUES? GOOD! THESE TECHNIQUES ARE TRICKY, SO WATCH CAREFULLY."
+"IN ORDER TO MAKE A CHAIN, YOU HAVE TO THINK AHEAD. WATCH CAREFULLY!"
+"IF THIS BLOCK IS MOVED, IT WILL MAKE A CHAIN WHEN THE OTHER BLOCKS DROP. MOVE QUICKLY!"
+"WHEN THE BLOCKS DROPPED, A 2-CHAIN WAS FORMED."
+"LET'S TRY THAT AGAIN. FIRST, ARRANGE THE BLOCKS TO PREPARE FOR A CHAIN. WHEN THIS BLOCK IS MOVED INTO PLACE, A 2-CHAIN IS FORMED!"
+"NEXT, WE'LL MOVE THIS BLOCK."
+"YOU SEE? A 3-CHAIN! CONTINUING TO ARRANGE THE BLOCKS IN THIS MANNER RESULTS IN LONGER AND LONGER CHAINS. THIS TYPE OF CHAIN IS KNOWN AS A SKILL CHAIN. THESE TECHNIQUES ARE KEY TO LEARN IF YOU WISH TO BECOME A PUZZLE MASTER. THE MORE YOU PRACTICE, THE BETTER YOU'LL BECOME."
+"AH, YES. ONE MORE THING ABOUT CHAINS. NOTE THAT THE SOUND EFFECTS CHANGE AS THE LENGTH OF THE CHAIN INCREASES."
+"IF YOU COMPLETE A FANTASTIC CHAIN, YOU WILL HEAR A TRIUMPHANT FANFARE. THIS MEANS YOU DID AN OUTSTANDING JOB!"
+"FINALLY, I WANT TO TEACH YOU ABOUT THE STOP."
+"THROUGHOUT THE GAME, THE STACK WILL RISE AND MORE BLOCKS WILL COME, FORCING YOU TO WORK QUICKLY. BY MAKING COMBOS AND CHAINS, YOU CAN STOP THE BLOCKS FROM COMING AND BUY MORE TIME. WATCH THE PLAYFIELD FOR A DEMONSTRATION."
+"NOTICE THAT THE STACK DOES NOT RISE WHILE YOU MAKE COMBOS AND CHAINS."
+"THE PULSING BLOCKS TELL YOU THAT THE STACK IS DANGEROUSLY CLOSE TO THE TOP. MAKE MORE COMBOS AND CHAINS TO DO STOPS. A JIGGLYPUFF WILL APPEAR, WHICH PROVES YOU HAVE MADE A SUCCESSFUL STOP. YOU WILL ALSO HEAR THE JIGGLYPUFF SING!"
+"FANTASTIC WORK! IT LOOKS LIKE THIS LESSON HAS COME TO AN END. YOU NOW KNOW MORE ABOUT THE ADVANCED TECHNIQUES NEEDED TO BECOME A PUZZLE MASTER. NEXT TIME WE MEET, I WILL TEACH YOU ABOUT THE VS. MODE. FAREWELL FOR NOW. GOOD LUCK!"
+VS RULES 1
+"WELCOME BACK TO MY LAB. NOW, I WILL TECH YOU ABOUT COMPETING AGAINST ANOTHER PLAYER. IN VS MODE, THE GOAL IS TO KEEP YOUR BLOCKS FROM REACHING THE TOP BEFORE YOUR OPPONENT'S DO. HOWEVER, THERE IS MORE TO IT THAN SIMPLY OUTLASTING YOUR COMPETITOR. YOU CAN ALSO ATTACK YOUR OPPONENT AND ADD TO THEIR STACK..."
+"WHILE YOU CLEAR BLOCKS, YOU ATTACK YOUR OPPONENT WITH GARBAGE BLOCKS. YOU SEE? THESE GARBAGE BLOCKS CAN BE VERY NASTY! IF YOU CREATE COMBOS AND CHAINS, THE GARBAGE BLOCKS YOU SEND GET LARGER."
+"OBSERVE, A 4-BLOCK COMBO ATTACK."
+"A 5-BLOCK COMBO ATTACK."
+"A 6-BLOCK COMBO ATTACK."
+"A 10-BLOCK COMBO ATTACK! A VERY NASTY ATTACK, INDEED!"
+"REMEMBER, THE MORE BLOCKS YOU CLEAR, THE BETTER YOUR ATTACK IS."
+"OBSERVE, A 2-CHAIN ATTACK."
+"NEXT, WATCH WHAT HAPPENS WHEN YOU ATTACK WITH CHAINS."
+"OBSERVE, A 2-CHAIN ATTACK."
+"A 3-CHAIN ATTACK."
+"A 4-CHAIN ATTACK."
+"AS YOU CAN SEE, THE LONGER THE CHAIN YOU BUILD, THE LARGER THE GARBAGE BLOCKS WILL BE."
+"WHAT'S THAT, YOU ASK? HOW DOES ONE GET RID OF GARBAGE BLOCKS? WE'LL SAVE THAT LESSON FOR NEXT TIME. FAREWELL UNTIL THEN!"
+VS RULES 2
+"NOW, LET'S LEARN HOW TO GET RID OF GARBAGE BLOCKS. LOOK OUT! AN ATTACK HAS COME FROM AN OPPONENT."
+"IN ORDER TO REMOVE THIS GARBAGE BLOCK, GET READY TO CLEAR SOME BLOCKS FROM YOUR STACK; JUST MAKE SURE THE BLOCKS YOU ARE CLEARING ARE ATTACHED TO THE GARBAGE BLOCKS."
+"YOU SEE?"
+"THE GARBAGE BLOCKS WILL TRANSFORM INTO NORMAL BLOCKS, WHICH YOU CAN THEN CLEAR NORMALLY."
+"OH, NO! ANOTHER ATTACK! ALTHOUGH THESE GARBAGE BLOCKS APPEAR DIFFERENT, REMOVING THEM IS DONE THE SAME WAY. WHEN YOU CLEAR BLOCKS ATTACHED TO SEVERAL LAYERS OF GARBAGE BLOCKS, ALL ADJACENT GARBAGE BLOCKS OF THE SAME COLOR WILL TRANSFORM TOGETHER. HOWEVER, IF ONE OF THE LAYERS IS A DIFFERENT COLOR, IT WILL NOT TRANSFORM WITH THE OTHERS. IN THIS INSTANCE, YOU WILL HAVE TO TRANSFORM THE GARBAGE BLOCKS ONE LAYER AT A TIME."
+"AN ATTACK MADE BY A CHAIN IS A DIFFERENT MATTER. THESE ARE MUCH LARGER LAYERS. IN THIS CASE, ONLY THE BOTTOM OF THE GARBAGE BLOCK TRANSFORMS. YOU WILL HAVE TO WORK HARD TO REDUCE THE SIZE OF THE GARBAGE BLOCK UNTIL IT IS GONE. A VERY NASTY ATTACK, INDEED!"
+"NOW YOU HAVE THE KNOWLEDGE TO DEAL WITH GARBAGE BLOCKS. THERE IS ONE LESSON REMAINING: THE 3D GAME. NEXT TIME WE MEET, I WILL EXPLAIN THIS NEW PUZZLE DIMENSION. FAREWELL!"
+3D RULES
+"GREETINGS! THERE IS ONE FINAL ASPECT OF THE GAME TO TEACH YOU. NOW WE ADD A THIRD DIMENSION TO TRULY CHALLENGE YOU."
+"THIS 3D MODE FEATURES A PLAYFIELD IN THE FORM OF A CYLINDER. THE STACKED BLOCKS MOVE ALONG THE CYLINDER'S OUTER SURFACE."
+"OBSERVE WHEN BLOCKS ARE MOVED TO THE RIGHT... AND NOW, TO THE LEFT... NOTICE HOW THE BLOCKS CIRCLE THE CYLINDER. THE BLOCKS MOVE UP AND DOWN IN THE SAME MANNER AS BEFORE. YOU SIMPLY MOVE THE CURSOR WITH THE + CONTROL PAD, AND SWITCH THE BLOCKS WITH THE A BUTTON OR B BUTTON, AS BEFORE. THE SAME RULES OF PLAY APPLY IN BOTH 2D AND 3D, ONLY NOW THE PLAYFIELD WRAPS AROUND."
+"OBSERVE THE GAME IN ACTION."
+"YOU SEE? IT'S JUST LIKE BEFORE, ONLY NOW WE'VE ADDED OH, NO! WATCH OUT! YOU NOW HAVE TO REMEMBER THE BLOCKS AT THE BACK OF THE CYLINDER. IF ANY BLOCKS REACH THE TOP OF THE SCREEN, THE GAME IS OVER. AS BEFORE, BE SURE NOT TO LET THE STACK BECOME TOO HIGH."
+"NOW THERE ARE A LOT MORE BLOCKS TO THINK ABOUT. HOWEVER, A TRUE PUZZLE MASTER WILL USE THIS TO THEIR ADVANTAGE. MORE BLOCKS MEAN MORE COMBOS AND CHAINS TO CREATE."
+"A 3D PLAYFIELD IS AVAILABLE IN VS MODE, AS WELL."
+"EXCELLENT! WE HAVE REACHED THE END OF MY FINAL LESSON. REMEMBER, IF YOU NEED TO REVIEW THESE WORDS OF WISDOM, SIMPLY SELECT 'HOW TO PLAY' FROM THE SELECT MENU. BEST OF LUCK TO YOU! FAREWELL!"
+Pokémon Channel
+Please feel free to edit this section to add missing information and complete it.
+The bedroom
+"Ah, the TV seems to have arrived. Welcome to Pokémon Channel!"
+PokéROM
+Please feel free to edit this section to add missing information and complete it.
+Pokémon Masters EX
+Main article: Professor Oak (Masters)
+Please feel free to edit this section to add missing information and complete it.
+Menu interface (voice clips)
+After being recruited for the first time
+"Hello there! My name is Oak, but most people refer to me as the Pokémon Professor!"
+Subsequent recruitments
+"My Pokémon and I have formed an incredible partnership! Please, allow me to share a few tips with you!"
+Sync pair viewer
+"This world is inhabited by creatures that we call Pokémon!"
+"Inside those three Poké Balls are Pokémon!"
+Selection screen (forming team)
+"Are you in need of my expertise?"
+Selection screen (disbanding team)
+"Take care!"
+Upon learning a new move
+"This move should prove to be quite useful."
+Upon leveling-up
+"I've still got strength left in these old bones!"
+Upon reaching max level
+"Haha! We've still got it, don't we?"
+Upon unlocking a new level cap
+"I can't let these youngsters get ahead of me, now can I?"
+During conversation
+"I believe in you!"
+"Congratulations!"
+"For Pete's sake!"
+"Here we go!"
+"Magnificent!"
+"Leave it to me!"
+"Aha!"
+"Ohoho!"
+During special gift conversation
+"Here you go!"
+Battle interface (voice clips)
+Co-op match screen
+"All right!"
+VS screen
+"Let's have a battle."
+Battle start
+"Let's go!"
+Using Pokémon move
+"Go!"
+"That's it!"
+Using item
+"Take this."
+Using Trainer move
+"Watch and learn!"
+Using Sync Move
+"Let's go!"
+Unity Move
+"Learn!"
+"Research!"
+"Pokémon!"
+Switching in
+"Is it our turn?"
+Recalling fainted Pokémon
+"You did your best."
+"Nice" emote
+"Oh! Well done!"
+"Watch out" emote
+"Watch out!"
+"Let's do this" emote
+"Let's go!"
+"Thanks" emote
+"Thank you."
+Defeat
+"I didn't do enough research..."
+Victory
+"My Pokémon research has truly paid off!"
+Pokémon Center
+Random conversation
+"Sync pairs and sync stones... Pasio sure is a fascinating place, don't you think?"
+"When Pokémon partner with Trainers to become sync pairs, they may show us things about themselves that we'd otherwise never see!"
+"This isn't good. There's so much to research! I don't think I'll be heading home anytime soon."
+If spoken to again
+"Professor Bellis is the senior authority when it comes to research on sync stones. She's more up on the subject than I am."
+"I'm actually tempted to become her assistant, just to have her teach me what she knows!"
+"Haha! Age and status don't matter when it comes to Pokémon research."
+"A love for Pokémon is what's most important for research."
+Random conversation
+"There are sync pairs from many different regions on Pasio."
+"I'm able to see all manner of Pokémon I could never encounter in the Kanto region thanks to that."
+"When Trainers' eyes meet, a battle is soon to follow. But for me..."
+"when something catches my eye, it's time for some Pokémon research!"
+If spoken to again
+"Earlier, I had a Trainer show me their partner Pokémon."
+"I got so caught up in studying their Pokémon that there was no time left for a battle."
+"Make sure you manage your time wisely so you don't end up like me!"
+Random conversation
+"Professor Elm, Professor Rowan, myself. There are many people researching Pokémon."
+"People like myself study Pokémon as a profession. For some people, Pokémon are pets. Others use them for battling."
+"There are as many ways to interact with Pokémon as there are people and Pokémon in the world."
+"Don't feel like you need to imitate anyone else. Treasure the unique way you relate to your own Pokémon!"
+If spoken to again
+"Back in my youth, I was a real go-getter Pokémon Trainer."
+"Back in those days, there was another Trainer I knew who was unrivaled in strength and very passionate about Pokémon battles."
+"That Trainer was Agatha! She is a member of the Indigo Elite Four."
+"I chose the life of a Pokémon researcher, but Agatha thought of nothing but Pokémon battles."
+"Our paths may have diverged, but I still hold her in high esteem."
+Random conversation
+"I've got a grandson... Erm, what was his name again?"
+"Just kidding, it's Blue! His name is Blue. I'm sure you've heard of him by now."
+"He was a bit of a mischievous boy, but he really changed after he left Pallet Town to go on his own Pokémon journey."
+"He's grown up so much!"
+"I'm so happy to have seen my grandson become such a fine young man... Hoho! The new discoveries never cease, even as I grow older!"
+If spoken to again
+"I think what helped Blue grow so much was his rival, a boy named Red."
+"I also gained experience through battling with a certain Pokémon Trainer."
+"I wonder, do you have anyone like that in your life? If you do, be sure to treasure that friend."
+"A friend who pushes you to newer and greater heights is a once-in-a-lifetime treasure!"
+Random conversation
+"There's something about you that reminds me of Red, <player>."
+"Those eyes that sparkle, full of hope... It's exactly how he looked the day I handed him his first Pokémon!"
+"If you hold on to that sparkle, I'm sure you'll become a splendid Pokémon Trainer!"
+If spoken to again
+"Perhaps someday you'll even have the opportunity to battle Red or Blue."
+"On the day I gave them their first Pokémon, I never could have imagined how those two would end up."
+"This is quite the rare opportunity. We should enjoy it to the best of our ability!"
+"You'll join the battle too, won't you? Don't go holding anything back now!"
+Random conversation
+"<player>, do you have any interest in Pokémon research?"
+"Research is a lot of fun! You can become very knowledgeable about all things Pokémon!"
+"The feeling of a new discovery that no one else has seen is the best feeling in the world!"
+"If you're interested, you should come stop by my lab sometime."
+"I'd be glad to welcome someone who loves Pokémon as much as you!"
+If spoken to again
+"Whether we're working as Trainers or researchers, reaching the end of our path can be very difficult."
+"But if you make your own way along the path you've chosen, even the tough times are enjoyable!"
+"Once you find your path, don't lose your way. Face challenges with all you've got."
+"I'll support you all the while, of course!"
+Random conversation
+"I'm reminded of myself when I was younger when I'm with you."
+"Spending my days enjoying Pokémon battles, challenging my rival."
+"When I'm with you, that old excitement of being a Trainer comes back to me."'
+"Hoho! I don't plan on letting you younger folk defeat me just yet!"
+If spoken to again
+"You may not end up so different from me in the future."
+"Hoho! What I mean is that you'll grow to be someone who loves Pokémon no matter your age."
+"Do your best never to lose that love for Pokémon."
+Special log-in conversation (generic)
+"Oho! If it isn't <player>! You look like you've got a skip in your step today!"
+"Get out there and give it your all today! Lots of sync pairs are just waiting to meet you!"
+Special log-in conversation (morning)
+"Ho! That skip in your step this morning reminds me of my grandchildren."
+Special log-in conversation (morning)
+"Tell me, how is your Pokémon doing? Ah! It seems to be very happy training alongside you today!"
+Special log-in conversation (afternoon)
+"Some people play with Pokémon; some battle with them. Whatever the choice, we can still support each other!"
+Special log-in conversation (afternoon)
+"You know, there just aren't enough hours in the day to enjoy research and exploration as much as I'd like to!"
+Special log-in conversation (evening)
+"I learned so many interesting things out in the field today! I can't wait to record everything in my latest report!"
+Special log-in conversation (evening)
+"Did you know that some Pokémon change their behavior based on whether it's day or night? Observing them can be quite a challenge!"
+Special gift conversation
+"Good timing!"
+"I found a handy little something. Here, I'll give it to you!"
+"Feel free to use it however you like!"
+"If I find something else, I'll be sure to give it to you. I hope you'll look forward to it!"
+Categories: Articles needing more informationQuote pages
+Attribution-NonCommercial-ShareAlike 2.5Powered by MediaWiki
+This page was last edited on 1 October 2021, at 21:23.Content is available under Attribution-NonCommercial-ShareAlike 2.5. (see Copyrights for details)Privacy policyAbout BulbapediaDisclaimersMobile view
