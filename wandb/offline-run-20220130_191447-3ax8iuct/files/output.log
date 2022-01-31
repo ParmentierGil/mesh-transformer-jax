@@ -1,0 +1,9 @@
+saving a checkpoint for step 1
+Wrote checkpoint in 166.298s
+saving a checkpoint for step 11
+Wrote checkpoint in 140.91s
+training completed!
+device_train.py:351: RuntimeWarning: invalid value encountered in double_scalars
+  G_noise = (gradient_accumulation_steps * gbbig - gbsmall) / (
+device_train.py:354: RuntimeWarning: invalid value encountered in double_scalars
+  S_noise = (gbsmall - gbbig) / (1 - 1 / gradient_accumulation_steps)
